@@ -88,7 +88,7 @@ def load_model_and_predict(movie_path, model_dir):
     all_pred_ids = []
     
     with torch.no_grad():
-        for batch in tqdm(pred_dataloader, desc="AI가 감정을 읽는 중"):
+        for batch in tqdm(pred_dataloader, desc="감정을 읽는 중"):
             input_ids = batch['input_ids'].to(device)
             attention_mask = batch['attention_mask'].to(device)
             
@@ -289,3 +289,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
