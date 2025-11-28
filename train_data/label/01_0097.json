@@ -1,0 +1,4830 @@
+{
+    "id": "01_0097",
+    "type": "movie",
+    "title": "더 밴드",
+    "genre": [
+        "드라마"
+    ],
+    "year": 2008,
+    "theme": "도전",
+    "concept": "컨트리 음악을 연주하던 C001는 록 음악에 반해, 밴드를 결성하면서 벌어지는 이야기다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "악동",
+    "main_character": "당당함",
+    "conflict": "나라에서 금지한 퇴폐풍조 음악에 속한 C001네 밴드는 음악을 그만두지 않으면 구속된다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007"
+    ],
+    "units": [
+        {
+            "id": "01_0097_01",
+            "next_id": "01_0097_02",
+            "characters": [
+                "C001",
+                "C004",
+                "C005",
+                "C002"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C002는 좋아하는 C001한테만 물을 준다.",
+            "unit_motif": "매력을 느낌",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C001는 기타 치며 컨트리 노래를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C004은 C001의 노래에 맞춰 코러스를 넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "다루다",
+                    "emotion": "담담하다",
+                    "content": "C005는 베이스 기타로 무게감을 더한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "설레다",
+                    "content": "C002는 C001의 공연이 끝나길 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "설레다",
+                    "content": "C002는 물 잔을 들고 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "설레다",
+                    "content": "C002는 C001한테 물을 준다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반하다",
+                    "content": "역시, C001 노래는 항상 최고야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "마시다",
+                    "emotion": "무감각함",
+                    "content": "C001는 말없이 물을 마신다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 1",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "부럽다",
+                    "content": "우리도 노래같이 했는데 C001한테만. 우리도 물 좀 줘."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 1",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "질투하다",
+                    "content": "C001 좋아하는 거 너무 티 내는 거 아냐?"
+                }
+            ]
+        },
+        {
+            "id": "01_0097_02",
+            "prev_id": "01_0097_01",
+            "next_id": "01_0097_03",
+            "characters": [
+                "C001",
+                "C004",
+                "C003",
+                "C005"
+            ],
+            "stage": "Main Character",
+            "storyline": "C001는 C003의 공연을 보기 위해 클럽 2를 찾는다.",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "C001는 흑인 군인들 사이에 앉아 무대를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "잘 들어봐. 우리 노래랑 뭔가 다르지 않아?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 2",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "글쎄, 잘 모르겠는데."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 2",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C003은 전주가 나오자 노래를 부른다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "창피하다",
+                    "content": "어, 달라. 노래 너무 못해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "웃는다",
+                    "content": "C005는 무대를 보며 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 2",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C003은 기타를 들고 연주한다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감탄하다",
+                    "content": "저 기타 치는 사람 봐 봐."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "감탄하다",
+                    "content": "C001는 C003의 손만 뚫어지게 쳐다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "마시다",
+                    "content": "C001는 술을 마신다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_03",
+            "prev_id": "01_0097_02",
+            "next_id": "01_0097_04",
+            "characters": [
+                "C001",
+                "C003"
+            ],
+            "stage": "Main Character",
+            "storyline": "C001는 C003한테 서로의 밴드를 합치자고 제안한다.",
+            "unit_motif": "부탁/제안",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "영화관 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "기대되다",
+                    "content": "C001는 C003을 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영화관 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "피곤하다",
+                    "content": "C003은 공연이 끝나고 클럽을 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영화관 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "단호하다",
+                    "content": "C001는 C003을 보고 걸어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "영화관 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "어이, 우리가 밴드를 모집하고 있는데 어때? 같이 해볼 생각 있어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영화관 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "웃는다",
+                    "content": "C003은 C001의 복장을 보며 웃는다."
+                },
+                {
+                    "type": "script",
+                    "location": "영화관 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "웃기네, 수준 떨어지는 애들이랑 우린 안 놀아."
+                },
+                {
+                    "type": "script",
+                    "location": "영화관 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "너희들, 우리 음악 들어 본 적 있어?"
+                },
+                {
+                    "type": "script",
+                    "location": "영화관 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "그렇게 자신 있으면 밴드 대결 어때?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영화관 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C003은 따라오라며 손짓한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영화관 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 C003을 따라간다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_04",
+            "prev_id": "01_0097_03",
+            "next_id": "01_0097_05",
+            "characters": [
+                "C003",
+                "C001"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C003은 C001의 밴드 실력을 인정한다.",
+            "causality": "Crossing(교차)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 3",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "귓속말하다",
+                    "emotion": "담담하다",
+                    "content": "C003은 클럽 매니저한테 귓속말을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 3",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "자신감 있다",
+                    "content": "C003은 C001한테 걸어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 3",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "보여줘 봐. 너희들의 생각. 시간은 많으니까."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 3",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "한 곡만 들어도 너희들의 생각은 달라질 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 3",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C001는 기타를 꺼낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 3",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "준비됐지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 3",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C001는 기타를 치며 노래 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 3",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "만족하다",
+                    "content": "C003은 C001의 노래를 들으며 발로 박자를 맞춘다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 3",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "반하다",
+                    "content": "오, 생각보다 괜찮은데?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 3",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "즐겁다",
+                    "content": "C003은 흥에 겨워 춤을 춘다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_05",
+            "prev_id": "01_0097_04",
+            "next_id": "01_0097_06",
+            "characters": [
+                "C001",
+                "C003"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C001는 C003의 숙소로 놀러 가고 경연 대회에 함께 나가자고 한다.",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C003의 숙소",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "궁금하다",
+                    "content": "C001는 C003의 숙소를 구경한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 숙소",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "저기 앉아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 숙소",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C003은 옷을 갈아입는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 숙소",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "기대되다",
+                    "content": "C001는 가방에서 신문을 꺼낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 숙소",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "우리 이 밴드 경연 대회 나가는 거 어때?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 숙소",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "궁금하다",
+                    "content": "C003은 신문을 뺏어 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 숙소",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "너희랑 우리가 같이 하면 문제없다고 보는데 나는."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 숙소",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "우승하면 상금은 얼마나 준대?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 숙소",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "content": "C001는 상금의 금액을 말해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 숙소",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "설레다",
+                    "content": "C003의 눈빛이 빛난다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_06",
+            "prev_id": "01_0097_05",
+            "next_id": "01_0097_07",
+            "characters": [
+                "C002",
+                "C001",
+                "C003",
+                "C004"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C002는 C001한테 날계란을 주고 C003은 C002에게 관심을 갖는다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 1 밖",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "자랑스럽다",
+                    "content": "C002는 밴드명 1라고 써 붙인 글씨를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1 주방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002는 주방으로 달려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1 주방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "찾는다",
+                    "content": "C002는 날달걀을 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "반하다",
+                    "content": "C002는 C001한테 날계란을 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "담담하다",
+                    "content": "C001는 익숙한 듯 날계란을 먹는다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 1",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "이 귀염둥이는 누구? 네 여자친구냐?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "뭐래."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002는 콧방귀를 뀌며 주방으로 간다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 1",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "content": "저 안에서 일하는 애야."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 1",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "저 안? 주방? 저렇게 이쁜 애가 왜?"
+                }
+            ]
+        },
+        {
+            "id": "01_0097_07",
+            "prev_id": "01_0097_06",
+            "next_id": "01_0097_08",
+            "characters": [
+                "C002",
+                "C001",
+                "C003"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001는 경연 대회 참여한 사람들을 보고 놀란다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 1 주방",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C002는 설거지를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1 주방",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C002는 C001의 노래가 들리자 따라 부른다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 1 주방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "궁금하다",
+                    "content": "뭔가 바뀌었네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C001는 눈앞에 많은 사람들을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "회관 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "와, 사람들 겁나 많다."
+                },
+                {
+                    "type": "script",
+                    "location": "회관 1",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "왜? 졸았냐?"
+                },
+                {
+                    "type": "script",
+                    "location": "회관 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "무슨 소리. 사람들 겁나 많아 겁나 좋다는 뜻이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "C001는 심호흡을 크게 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "자신감 있다",
+                    "content": "C001는 목을 풀기 위해 흥얼거린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C003은 기타를 꺼내 손가락을 푼다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_08",
+            "prev_id": "01_0097_07",
+            "next_id": "01_0097_09",
+            "characters": [
+                "C006",
+                "C002",
+                "C001",
+                "C003"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C002는 C001의 무대를 보고 사람들이 비웃자 눈물이 난다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "회관 1 무대",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "자신감 있다",
+                    "content": "C006은 마이크를 들고 무대 안쪽에서 나타난다."
+                },
+                {
+                    "type": "script",
+                    "location": "회관 1 무대",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "다음 참가자분 나와주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 무대",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "C002는 C001의 차례가 되자 긴장한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 무대",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "설레다",
+                    "content": "C001와 C003은 불이 꺼지자 무대 위로 올라간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 무대",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "C001와 C003은 겉옷을 벗어던진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 공연석",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "C001와 C003은 야광으로 된 해골 옷을 입고 노래와 연주를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 공연석",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "궁금하다",
+                    "content": "C002는 사람들의 반응을 살핀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 공연석",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "발견하다",
+                    "content": "C002는 비웃는 사람들을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "회관 1 공연석",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "슬프다",
+                    "content": "저 사람들 보는 눈이 없네. 저렇게 멋있는데."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 공연석",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "슬프다",
+                    "content": "C002는 속상한 마음에 눈물이 난다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_09",
+            "prev_id": "01_0097_08",
+            "next_id": "01_0097_10",
+            "characters": [
+                "C001",
+                "C002",
+                "C006",
+                "C003"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001는 생각지도 못한 특별상을 받는다.",
+            "unit_motif": "선물 줌/선물 받음",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "회관 1 무대 뒤",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "부럽다",
+                    "content": "C001는 라이벌 밴드가 대상을 받는 걸 구경한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 무대 뒤",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "자랑스럽다",
+                    "content": "C002는 C001한테 수건을 준다."
+                },
+                {
+                    "type": "script",
+                    "location": "회관 1 무대 뒤",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "여기 참가자 중에 네가 최고였어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 무대 뒤",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "emotion": "절망하다",
+                    "content": "C001는 말없이 수건을 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 무대 뒤",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "짜증나다",
+                    "content": "C001는 해골 옷을 벗어던진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 무대 뒤",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "C002는 C001가 벗은 옷을 줍는다."
+                },
+                {
+                    "type": "script",
+                    "location": "회관 1 무대",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "content": "이번에는 특별히 준비한 특별상입니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 무대",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C006은 밴드명 1 이름을 부른다."
+                },
+                {
+                    "type": "script",
+                    "location": "회관 1 무대 뒤",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "와, 우리다 우리. 우리 특별상이래."
+                },
+                {
+                    "type": "script",
+                    "location": "회관 1 무대 뒤",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "오예, 역시 될 줄 알았어."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_10",
+            "prev_id": "01_0097_09",
+            "next_id": "01_0097_11",
+            "characters": [
+                "C006",
+                "C001",
+                "C003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001는 C006의 칭찬에 자신감을 갖는다.",
+            "causality": "Mentor(스승)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "회관 1 주차장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C006은 주차장으로 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 주차장",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C001와 C003은 C006을 따라간다."
+                },
+                {
+                    "type": "script",
+                    "location": "회관 1 주차장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "내가 너희들이 하는 공연을 봤는데, 제법 하더라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 주차장",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "즐겁다",
+                    "content": "C001는 C006의 칭찬에 기분이 좋다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 주차장",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C006은 차에 타는 사람을 가리킨다."
+                },
+                {
+                    "type": "script",
+                    "location": "회관 1 주차장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "content": "저기 차에 탄 사람 누군지 아는 사람?"
+                },
+                {
+                    "type": "script",
+                    "location": "회관 1 주차장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "누군데요?"
+                },
+                {
+                    "type": "script",
+                    "location": "회관 1 주차장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "content": "너희들 공연 보고 너희들 스카우트하겠다는 사람. 계약하면 물론 계약금도 주고."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 주차장",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "C001는 계약금을 듣고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회관 1 주차장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "준다",
+                    "emotion": "담담하다",
+                    "content": "C006은 C001한테 자신의 명함을 준다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_11",
+            "prev_id": "01_0097_10",
+            "next_id": "01_0097_12",
+            "characters": [
+                "C001",
+                "C004",
+                "C003"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C001는 밴드 공연을 위해 클럽 1을 떠난다.",
+            "unit_motif": "여정의 시작",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 1 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 주변을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "단호하다",
+                    "content": "C001는 트럭에 짐을 싣는다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 1 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "오늘 안 온 거 맞지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C004은 고개를 끄덕인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 1 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "C003은 주변을 살핀다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 1 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "무슨 일인데?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 1 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "걔한테 갚아야 할 게 있어서."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 1 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "빨리 정리해라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "트럭",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "단호하다",
+                    "content": "C001는 트럭에 올라탄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "트럭",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C004은 트럭을 운전한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_12",
+            "prev_id": "01_0097_11",
+            "next_id": "01_0097_13",
+            "characters": [
+                "E001",
+                "E002",
+                "C003"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "E001는 C003을 보고 호기심을 갖는다.",
+            "unit_motif": "매력을 느낌",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "여관 1 계산대",
+                    "character": [
+                        "E001"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "E001는 수건을 잔뜩 개고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 계산대",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "E002는 문을 열고 뛰어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 계산대",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "말하다",
+                    "content": "누구 온 거 같은데?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 계산대",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "궁금하다",
+                    "content": "E001는 수건을 개다 멈춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 계산대",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "설레다",
+                    "content": "E001는 슬리퍼를 신고 달려 나간다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "content": "에이, 난 또 스카우트하러 온 줄 알았네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "보다",
+                    "emotion": "궁금하다",
+                    "content": "E001는 호기심 어린 눈으로 C003을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C003은 E001한테 윙크한다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "여기 묵으실 거예요? 얼마나?"
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "글쎄, 얼마나 묵게 되려나."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_13",
+            "prev_id": "01_0097_12",
+            "next_id": "01_0097_14",
+            "characters": [
+                "E001",
+                "C001",
+                "C004",
+                "C002"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C001는 여관에서 C002를 만나자 당황한다.",
+            "unit_motif": "우연한 만남",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "여관 1 계산대",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "준다",
+                    "emotion": "담담하다",
+                    "content": "E001는 여관 열쇠를 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 계단",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "당황하다",
+                    "content": "C001는 짐을 들고 올라가다 멈춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 계단",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "C001는 C002를 보고 당황한다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 계단",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "귀찮다",
+                    "content": "뭐야, 네가 왜 여기 있어?"
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 계단",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "귀찮다",
+                    "content": "미안, 나도 어쩔 수 없이 말했어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 계단",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "emotion": "짜증나다",
+                    "content": "C001는 발로 C004의 엉덩이를 때린다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 계단",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "content": "우리한테 무료 봉사 한 대."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 계단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002는 웃으며 계단을 내려간다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 계단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "배고프지? 밥 먹자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 계단",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 C002를 무시하고 계단을 올라간다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_14",
+            "prev_id": "01_0097_13",
+            "next_id": "01_0097_15",
+            "characters": [
+                "C001",
+                "C006"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C001는 공연을 알아보기 위해 C006을 찾아간다.",
+            "causality": "Courtship(구애)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C006의 사무실 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "C001는 긴장한 모습으로 노크를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 사무실 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 문을 열고 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "반갑다",
+                    "content": "C006은 C001를 보고 반가워한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "어, 왔어? 오는데 어렵지는 않았고?"
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "네, 편히 왔습니다. 안녕하셨어요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "기대되다",
+                    "content": "C006은 신문 기사를 가리킨다."
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감탄하다",
+                    "content": "기사 잘 나왔더라."
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "초조하다",
+                    "content": "전화드렸는데 연결이 잘 안돼서 직접 왔어요. 저희 공연 어떻게 하면 됩니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "안타깝다",
+                    "content": "C006은 한숨을 쉰다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C006은 C001를 데리고 나간다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_15",
+            "prev_id": "01_0097_14",
+            "next_id": "01_0097_16",
+            "characters": [
+                "C006",
+                "C001"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C001는 공연을 할 곳이 없다는 말에 얼굴이 굳는다.",
+            "unit_motif": "걱정",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "커피숍",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C006은 커피를 주문한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "커피숍",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "초조하다",
+                    "content": "C001는 C006의 눈치를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "커피숍",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "저희 아예 서울로 이사 왔어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "커피숍",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "C006은 커피를 마시다 당황한다."
+                },
+                {
+                    "type": "script",
+                    "location": "커피숍",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "속상하다",
+                    "content": "뭐? 말도 없이. 지금 분위기가 안 좋아. 나라에서 보는 대중문화의 인식도 그렇고."
+                },
+                {
+                    "type": "narrative",
+                    "location": "커피숍",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "불안하다",
+                    "content": "C001는 얼굴이 굳는다."
+                },
+                {
+                    "type": "script",
+                    "location": "커피숍",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "요즘 밴드들이 공연할 곳이 마땅치 않아."
+                },
+                {
+                    "type": "script",
+                    "location": "커피숍",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "절박하다",
+                    "content": "저희는 공연이 하고 싶어서 왔어요. 공연할 수 있게 만들어 주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "커피숍",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "C006은 기다리라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "커피숍",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "단호하다",
+                    "content": "C006은 자리에서 일어난다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_16",
+            "prev_id": "01_0097_15",
+            "next_id": "01_0097_17",
+            "characters": [
+                "C003",
+                "C002",
+                "C001"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C002는 부침개를 만들어 C001한테만 준다.",
+            "unit_motif": "질투",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "피곤하다",
+                    "content": "C003은 하품을 하며 기지개를 편다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "만족하다",
+                    "content": "C002는 부침개를 접시에 담는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "무감각함",
+                    "content": "C003은 부침개를 먹으려고 손을 뻗는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "emotion": "짜증나다",
+                    "content": "C002는 C003의 손을 때린다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "짜증나다",
+                    "content": "네 거 아니야. 건드리지 마."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "기대되다",
+                    "content": "C002는 C001한테 부침개를 준다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "따뜻할 때 얼른 먹어. 맛있게 됐어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "담담하다",
+                    "content": "C001는 부침개를 먹는다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "서운하다",
+                    "content": "너 먹는 거 가지고 사람 차별하는 거 아니다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "네 건 네가 해 먹어."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_17",
+            "prev_id": "01_0097_16",
+            "next_id": "01_0097_18",
+            "characters": [
+                "E003",
+                "C001",
+                "C003",
+                "C004"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C001는 멤버들과 민요 반주 일을 한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "녹음실",
+                    "character": [
+                        "E003"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "E003은 민요를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "녹음실",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "무감각함",
+                    "content": "C001는 노래에 맞춰 반주를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "녹음실",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "피곤하다",
+                    "content": "C003은 반주를 하다 하품을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "녹음실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "emotion": "심란하다",
+                    "content": "C001는 C003한테 눈치를 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "녹음실",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "불편하다",
+                    "content": "C003은 잠을 깨기 위해 눈을 부릅뜬다."
+                },
+                {
+                    "type": "script",
+                    "location": "녹음실 복도",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "피곤하다",
+                    "content": "으, 너무 졸리다."
+                },
+                {
+                    "type": "script",
+                    "location": "녹음실 복도",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "정신 차려. 잘리고 싶어?"
+                },
+                {
+                    "type": "script",
+                    "location": "녹음실 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "지겹다",
+                    "content": "우리가 밴드하러 왔지 이런 거 하러 온 거 아니잖아."
+                },
+                {
+                    "type": "script",
+                    "location": "녹음실 복도",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "당장 돈은 벌어야 할거 아냐. 돈이 있어야 음반을 내지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "녹음실 복도",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "마시다",
+                    "emotion": "심란하다",
+                    "content": "C001는 캔커피를 빠르게 마신다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_18",
+            "prev_id": "01_0097_17",
+            "next_id": "01_0097_19",
+            "characters": [
+                "C001",
+                "녹음 기사",
+                "C003",
+                "C004"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C001와 멤버들은 자신들만의 음악을 녹음한다.",
+            "unit_motif": "능력 각성",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "녹음실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "설레다",
+                    "content": "C001는 마이크 앞에 선다."
+                },
+                {
+                    "type": "script",
+                    "location": "녹음실",
+                    "character": [
+                        "녹음 기사"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "주어진 시간 별로 없는 거 알죠? 그러니 어서 서두르세요."
+                },
+                {
+                    "type": "script",
+                    "location": "녹음실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "서운하다",
+                    "content": "시간이 너무 짧은 데 조금만 더 주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "녹음실",
+                    "character": [
+                        "녹음 기사"
+                    ],
+                    "act": "무시하다",
+                    "content": "녹음 기사는 C003의 말을 무시한다."
+                },
+                {
+                    "type": "script",
+                    "location": "녹음실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "자자, 다들 집중하고 실수하면 끝이야. 알겠지?"
+                },
+                {
+                    "type": "script",
+                    "location": "녹음실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "매일 하던 음악인데 막상 녹음하려니 너무 긴장된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "녹음실",
+                    "character": [
+                        "녹음 기사"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "녹음 기사는 녹음 버튼을 누른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "녹음실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "설레다",
+                    "content": "C003과 C004은 연주를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "녹음실",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "기쁘다",
+                    "content": "C001는 자신만의 색깔로 노래를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "녹음실",
+                    "character": [
+                        "녹음 기사"
+                    ],
+                    "emotion": "기대되다",
+                    "content": "녹음 기사는 처음 듣는 음악에 흥미를 갖는다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_19",
+            "prev_id": "01_0097_18",
+            "next_id": "01_0097_20",
+            "characters": [
+                "C006",
+                "사장 1",
+                "사장 2",
+                "C001",
+                "C003"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001는 기다리던 오디션이 열리자 C003한테 알려준다.",
+            "unit_motif": "정보 획득",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "호텔 스위트룸",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "반갑다",
+                    "content": "C006은 음악 살롱 사장들과 회의를 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 스위트룸",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "심야 영업이 가능한 호텔 찾았어요. 호텔 1."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 스위트룸",
+                    "character": [
+                        "사장 1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불안하다",
+                    "content": "사람들이 통행금지 시간에 올 수 있으려나 모르겠네."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 스위트룸",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "요즘 갈 곳 잃은 젊은 애들 많아요. 반드시 잘 될 겁니다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 스위트룸",
+                    "character": [
+                        "사장 2"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "그럼 진행해 봅시다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기쁘다",
+                    "content": "C001는 옥상으로 달려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "열다",
+                    "emotion": "기쁘다",
+                    "content": "C001는 옥상 문을 연다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "무감각함",
+                    "content": "C003은 문 여는 소리에 잠에서 깬다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "emotion": "기대되다",
+                    "content": "C001는 오디션 공지를 알려준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "행복하다",
+                    "content": "C003은 기뻐서 크게 소리친다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_20",
+            "prev_id": "01_0097_19",
+            "next_id": "01_0097_21",
+            "characters": [
+                "C001",
+                "C006",
+                "C003",
+                "C007"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001는 오디션을 보기 위해 오디션장에 참석한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "오디션장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "감탄하다",
+                    "content": "C001는 수많은 밴드들을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "오디션장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "오, 밴드란 밴드는 다 모였나 봐."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오디션장",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "반갑다",
+                    "content": "C001는 C006과 눈이 마주친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오디션장",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "반갑다",
+                    "content": "C001는 C006한테 웃으며 인사를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오디션장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 C006한테 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오디션장",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "반갑다",
+                    "content": "C006은 손을 흔들어 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오디션장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "불편하다",
+                    "content": "C003은 밴드명 2의 C007을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "오디션장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "좋아하는 가수는?"
+                },
+                {
+                    "type": "script",
+                    "location": "오디션장",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "넌 말해도 몰라. E005."
+                },
+                {
+                    "type": "script",
+                    "location": "오디션장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "그러게, 그게 누구야?"
+                }
+            ]
+        },
+        {
+            "id": "01_0097_21",
+            "prev_id": "01_0097_20",
+            "next_id": "01_0097_22",
+            "characters": [
+                "남자 직원",
+                "C007",
+                "C003",
+                "C001"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001는 오디션에 합격한다.",
+            "unit_motif": "성공",
+            "causality": "Facing the greatest fear(심연을 직면함)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "오디션장 게시판",
+                    "character": [
+                        "남자 직원"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "담담하다",
+                    "content": "남자 직원은 합격자 명단을 게시판에 붙인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오디션장 게시판",
+                    "character": [
+                        "C007"
+                    ],
+                    "emotion": "만족하다",
+                    "content": "C007은 기타 명단에서 자신의 이름을 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오디션장 게시판",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "부럽다",
+                    "content": "C003은 1등 한 C007의 이름을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "오디션장 게시판",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "content": "곧 다시 만나자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오디션장 게시판",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "짜증나다",
+                    "content": "C003은 자신의 이름이 없자 낙심한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오디션장 게시판",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "C001는 밴드 부분 명단을 확인한다."
+                },
+                {
+                    "type": "script",
+                    "location": "오디션장 게시판",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "야호, 우리 합격이다."
+                },
+                {
+                    "type": "script",
+                    "location": "오디션장 게시판",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "난 우리가 될 줄 알았다고."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오디션장 게시판",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "기쁘다",
+                    "content": "C001와 C003은 서로 끌어안는다."
+                },
+                {
+                    "type": "script",
+                    "location": "오디션장 게시판",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "이렇게 좋은 날 그냥 넘어갈 수 없지."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_22",
+            "prev_id": "01_0097_21",
+            "next_id": "01_0097_23",
+            "characters": [
+                "C001",
+                "C002",
+                "C003",
+                "C007"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C001는 클럽 4의 화려함에 반하고 C003은 C007을 만난다.",
+            "unit_motif": "적의 등장",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "반하다",
+                    "content": "C001는 클럽 4의 화려함에 반한다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "와, 눈이 아주 휘둥그레지네."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 입구",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "내가 본 클럽 중에 제일이야."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 입구",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "우리 이제 여기서 공연하는 건가?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "자신감 있다",
+                    "content": "C003은 무대에서 연습하는 밴드명 2를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "자신감 있다",
+                    "content": "C003은 무대로 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "반하다",
+                    "content": "C003은 C007의 기타를 눈여겨본다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "content": "안녕? 또 만나네? 정식으로 인사할게. 난 C003이야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C007"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C007은 웃으며 자기소개를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "불편하다",
+                    "content": "C003은 얼떨결에 따라 웃는다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_23",
+            "prev_id": "01_0097_22",
+            "next_id": "01_0097_24",
+            "characters": [
+                "C006",
+                "C002",
+                "C003"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C002는 입장을 기다리는 여자들의 옷차림을 보며 부러워한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 룸",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "기대되다",
+                    "content": "C006은 오디션에 합격한 사람들을 소개한다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 룸",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "자 서로들 인사하시고, 다들 열심히 해서 성공합시다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 룸",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "즐겁다",
+                    "content": "C002는 신나서 손뼉을 친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "반하다",
+                    "content": "C002는 줄 서있는 여자들의 옷을 구경한다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "궁금하다",
+                    "content": "서울 얘들이 예쁘긴 하네. 나도 저런 옷 입고 싶어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C003은 담배를 피우기 위해 밖으로 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "궁금하다",
+                    "content": "C003은 C002를 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "뭘 그렇게 보고 있어?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "몰라도 돼."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002는 C003을 밀치고 들어간다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_24",
+            "prev_id": "01_0097_23",
+            "next_id": "01_0097_25",
+            "characters": [
+                "C001",
+                "C006",
+                "클럽 4 사장",
+                "C007",
+                "C003"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C001는 사람들의 반응에 당황한다.",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C001는 멤버들과 공연을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "C001는 사람들이 비웃는 소리에 당황한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "보다",
+                    "content": "C006은 구석에서 공연을 지켜본다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "클럽 4 사장"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불안하다",
+                    "content": "잘한다는 얘들이 쟤네야? 영 별론데?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "content": "네가 그래서 안되는 거다. 잘 봐둬. 금방 성공할 밴드니까."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "짜증나다",
+                    "content": "C001는 공연이 끝나자 무대에서 내려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "자신감 있다",
+                    "content": "C007은 멤버들과 무대에 올라간다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "클럽 4 사장"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "역시. 기대를 저버리지 않는군."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "질투하다",
+                    "content": "와, 보통 녀석이 아니었네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "마시다",
+                    "content": "C001는 테이블에 앉아 술을 마신다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_25",
+            "prev_id": "01_0097_24",
+            "next_id": "01_0097_26",
+            "characters": [
+                "C001",
+                "C004",
+                "C003",
+                "C002",
+                "히피"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C002는 의상 준비를 위해 서울에 간다.",
+            "unit_motif": "깨달음",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 사장실 복도",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "기대되다",
+                    "content": "C001는 월급봉투를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 사장실 복도",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "씁쓸하다",
+                    "content": "C001는 금액을 보고 한숨을 쉰다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "절망하다",
+                    "content": "이것도 월급이라고. 우리 인기가 제일 없대."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "실망하다",
+                    "content": "그래? 그 정도일 줄은 몰랐는데."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "부럽다",
+                    "content": "알다시피 밴드명 2가 넘버 원."
+                },
+                {
+                    "type": "narrative",
+                    "location": "서울 거리",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "궁금하다",
+                    "content": "C002는 히피들을 유심히 관찰한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "서울 거리",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002는 길거리에서 노닥거리는 히피들 옆으로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "서울 거리",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C002는 히피의 옷을 손으로 만진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "서울 거리",
+                    "character": [
+                        "히피"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "히피는 C002의 행동에 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "서울 거리",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "미안하다",
+                    "content": "이 옷 어디서 샀어?"
+                }
+            ]
+        },
+        {
+            "id": "01_0097_26",
+            "prev_id": "01_0097_25",
+            "next_id": "01_0097_27",
+            "characters": [
+                "C001",
+                "C003",
+                "C002"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C002는 C001를 돕기 위해 무대에서 춤을 춘다.",
+            "unit_motif": "고민 해결",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "황당하다",
+                    "content": "C001는 C002의 옷을 보고 황당해한다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "그걸 지금 옷이라고 입은 거냐?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "네가 옷에 대해 알긴 뭘 알겠어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "심란하다",
+                    "content": "C001는 무대에서 사람들의 반응을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "심란하다",
+                    "content": "C001의 표정이 점점 굳어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "걱정",
+                    "content": "C002는 C001의 표정이 안 좋자 무대 앞으로 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C002는 연주에 맞춰 춤을 춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C002는 옷이 돋보이게 좌우로 많이 흔든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C001는 사람들이 열광하자 신나서 노래한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C003은 C002의 춤에 맞춰 연주를 한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_27",
+            "prev_id": "01_0097_26",
+            "next_id": "01_0097_28",
+            "characters": [
+                "C002",
+                "C004",
+                "C001"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C001는 C002한테 공연을 함께 하자고 제안한다.",
+            "unit_motif": "부탁/제안",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C002는 평상에 옷과 신발을 쌓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C002는 가위로 옷을 자른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C002는 실과 바늘로 새로운 옷을 만든다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "너 지금 옷 만드는 거야?"
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "응. 나 솜씨 좋아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "설레다",
+                    "content": "C001는 평상에 앉아 가만히 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 방 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "C001는 C002의 방문을 노크한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 방 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "열다",
+                    "emotion": "궁금하다",
+                    "content": "C002는 노크 소리에 문을 연다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 방 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "너 한 춤 하더라. 앞으로 우리 밴드랑 같이 일하는 거 어때?"
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 방 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "당연히 좋지. 할게."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_28",
+            "prev_id": "01_0097_27",
+            "next_id": "01_0097_29",
+            "characters": [
+                "C006",
+                "C002"
+            ],
+            "stage": "Another Story",
+            "storyline": "C006은 C002의 춤 이름을 정해준다.",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "비장하다",
+                    "content": "C006은 C002를 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "궁금하다",
+                    "content": "C002는 C006한테 걸어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "지난번에 췄던 춤. 대단하던데 어떻게 한 거야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "기쁘다",
+                    "content": "C002는 신나서 춤을 춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "만족하다",
+                    "content": "C006은 C002의 춤을 보고 손뼉을 친다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "이 춤 이름 붙여서 널리 퍼트리자. 춤의 이름은 뭐가 좋을까?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감동하다",
+                    "content": "춤에 이름을 붙여요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 입구 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "감동하다",
+                    "content": "C002는 입구에 붙어있는 포스터를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 입구 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "감동하다",
+                    "content": "봐봐. 나도 같이 포스터에 들어가 있어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 입구 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "감동하다",
+                    "content": "C002는 눈물을 글썽한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_29",
+            "prev_id": "01_0097_28",
+            "next_id": "01_0097_30",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Another Story",
+            "storyline": "C002는 C001가 준비한 음악에 맞춰 의상을 준비한다.",
+            "unit_motif": "도움을 줌/받음",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 멤버들한테 공연할 악보를 준다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "어때? 다른 밴드들과 다르게 신나게 앞만 보고 무작정 가는 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "기대되다",
+                    "content": "C002는 함께 춤을 출 여자들한테 옷을 준다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "자 이 옷 입어. 지금."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "C002는 여자들의 옷을 확인한다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "어때? 맘에 들어? 불편한 곳은 없고?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "만족하다",
+                    "content": "C001는 무대 의상을 보고 만족한다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "잘 만들었네. 우리 밴드랑 잘 어울려."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "기쁘다",
+                    "content": "C002는 C001의 칭찬에 기분이 좋다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "content": "C001는 C002한테 악보를 준다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_30",
+            "prev_id": "01_0097_29",
+            "next_id": "01_0097_31",
+            "characters": [
+                "C001",
+                "C002",
+                "C006",
+                "클럽 4 사장",
+                "남자 직원"
+            ],
+            "stage": "Another Story",
+            "storyline": "클럽 4 사장은 밴드명 1의 인기에 간판 포스터를 바꾼다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C001는 노래를 부르며 여자들한테 윙크한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "기쁘다",
+                    "content": "C002는 춤을 따라 추는 사람들을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "기쁘다",
+                    "content": "C002는 더 신나게 춤을 춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "보다",
+                    "emotion": "뿌듯하다",
+                    "content": "C006은 멀리서 지켜본다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "클럽 4 사장"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "네 덕분에 손님들이 미어터지고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뿌듯하다",
+                    "content": "내가 말했지? 분명 잘 될 얘들이라고."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "클럽 4 사장"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "그러게, 이제 이 클럽에서 쟤네가 최고야."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "그럼 이제 슬슬 소문을 내 볼까."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 입구 앞",
+                    "character": [
+                        "남자 직원"
+                    ],
+                    "emotion": "단호하다",
+                    "content": "남자 직원은 메인 간판 자리에 있는 밴드명 2 포스터를 뗀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 입구 앞",
+                    "character": [
+                        "남자 직원"
+                    ],
+                    "emotion": "단호하다",
+                    "content": "남자 직원은 밴드명 1의 포스터를 붙인다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_31",
+            "prev_id": "01_0097_30",
+            "next_id": "01_0097_32",
+            "characters": [
+                "C003",
+                "E004",
+                "C006",
+                "C001",
+                "C002"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C001네 밴드는 클럽 4의 메인 자리를 차지한다.",
+            "unit_motif": "세간의 주목",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "만족하다",
+                    "content": "C003은 공연이 끝나자 내려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대 뒤",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "반하다",
+                    "content": "E004은 C003한테 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대 뒤",
+                    "character": [
+                        "E004"
+                    ],
+                    "emotion": "반하다",
+                    "content": "E004은 손수건을 꺼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대 뒤",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "준다",
+                    "emotion": "반하다",
+                    "content": "E004은 C003의 땀을 닦아준다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 무대 뒤",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "멋진 공연이었어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대 뒤",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "자신감 있다",
+                    "content": "C006은 수첩을 꺼내 글을 쓴다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 무대 뒤",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "content": "클럽 클럽 4의 성공으로 길거리에 클럽들이 늘어나고."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 입구 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "뿌듯하다",
+                    "content": "C001는 메인 간판 자리에 있는 포스터를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 입구 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "행복하다",
+                    "content": "우리 포스터가 여기에 붙어있다니. 우리 성공했다!"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 입구 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감동하다",
+                    "content": "이건 너무 좋아서 나는 눈물이야."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_32",
+            "prev_id": "01_0097_31",
+            "next_id": "01_0097_33",
+            "characters": [
+                "C001",
+                "C002",
+                "C006",
+                "C003"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C002는 무대에서 처음으로 노래를 부른다.",
+            "causality": "Facing the greatest fear(심연을 직면함)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "emotion": "기대되다",
+                    "content": "C001는 C002한테 마이크를 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "행복하다",
+                    "content": "C002는 노래를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "창피하다",
+                    "content": "C002는 노래를 부르다 음정이 틀린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "단호하다",
+                    "content": "C001는 C002한테 마이크를 뺏는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "창피하다",
+                    "content": "C002는 얼굴이 빨개지며 춤을 춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "자신감 있다",
+                    "content": "C006은 밴드명 1 기사를 쓴다."
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "content": "음악에 취한 사람들 위해 가게 집들이 클럽으로 바뀌고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "기쁘다",
+                    "content": "C001는 신문을 펼쳐 기사를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "기사가 아주 맘에 쏙 드네."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "에이, 나는 이쁘게 안 나왔어. 좀 잘 나온 사진으로 쓰지."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_33",
+            "prev_id": "01_0097_32",
+            "next_id": "01_0097_34",
+            "characters": [
+                "공무원",
+                "경찰",
+                "방범대원",
+                "E001",
+                "TV 아나운서",
+                "C001",
+                "C004"
+            ],
+            "stage": "Defeat",
+            "storyline": "나라에서는 불법 영업을 단속하지만 고고 클럽에 인기는 식을 줄 모른다.",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "길거리",
+                    "character": [
+                        "공무원"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "단호하다",
+                    "content": "공무원은 길거리 포스터를 뗀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길거리",
+                    "character": [
+                        "경찰"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "단호하다",
+                    "content": "경찰은 거리에 바리케이드를 친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길거리",
+                    "character": [
+                        "방범대원"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "단호하다",
+                    "content": "방범대원은 통행금지 단속을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 계산대",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "E001는 청소를 하며 뉴스를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 계산대",
+                    "character": [
+                        "TV 아나운서"
+                    ],
+                    "act": "말하다",
+                    "content": "나라의 기강을 바로잡기 위해 심야 영업하는 클럽들의 영업을 금지하기로 했습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "걱정",
+                    "content": "C001는 땀을 닦으며 C004을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "기대되다",
+                    "content": "C004은 서둘러 짐을 챙긴다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "으, 너무 피곤하다. 다음에 갈 곳은 어디야?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "다음에 갈 곳은 클럽 5. 가자."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "피곤해. 좀 쉬면서 하자고. 우리 너무 굴리는 거 아냐?"
+                }
+            ]
+        },
+        {
+            "id": "01_0097_34",
+            "prev_id": "01_0097_33",
+            "next_id": "01_0097_35",
+            "characters": [
+                "C006",
+                "TV 아나운서",
+                "C001",
+                "C004 엄마",
+                "C002"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "클럽 5 화재로 C004은 사망한다.",
+            "causality": "Touch of the death(애석한 죽음)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C006 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "보다",
+                    "emotion": "참담하다",
+                    "content": "C006은 하던 일을 멈추고 뉴스를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C006 사무실",
+                    "character": [
+                        "TV 아나운서"
+                    ],
+                    "act": "말하다",
+                    "emotion": "참담하다",
+                    "content": "속보입니다. 클럽 5가 화재로 수많은 인명 피해가 발생했습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "보다",
+                    "emotion": "절망하다",
+                    "content": "C006은 뉴스가 끝나자 신문을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C006 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "절망하다",
+                    "content": "대중문화를 해하는 공연 단속!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "화장터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "슬프다",
+                    "content": "C001는 C004의 영정 사진을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화장터",
+                    "character": [
+                        "C004 엄마"
+                    ],
+                    "act": "울다",
+                    "emotion": "슬프다",
+                    "content": "C004 엄마는 바닥에 주저앉아 운다."
+                },
+                {
+                    "type": "script",
+                    "location": "화장터",
+                    "character": [
+                        "C004 엄마"
+                    ],
+                    "act": "말하다",
+                    "emotion": "죄책감",
+                    "content": "아이고, C004아, 엄마가 미안해. 나 때문에 네가 돈을 벌려다 미안하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화장터",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "content": "C002는 울면서 C004의 관이 타는 걸 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "화장터",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "구박만 해서 미안해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화장터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 눈물을 닦으며 밖으로 나간다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_35",
+            "prev_id": "01_0097_34",
+            "next_id": "01_0097_36",
+            "characters": [
+                "C003",
+                "C005",
+                "C001",
+                "C007",
+                "클럽 4 사장"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C001는 속상한 마음에 C005한테 싫은 소리를 한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "강변",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "슬프다",
+                    "content": "C003은 C004의 유골을 강에 뿌린다."
+                },
+                {
+                    "type": "script",
+                    "location": "강변",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "속상하다",
+                    "content": "클럽 직원들이 돈 받으려고 사람들 못 나가게 막았대."
+                },
+                {
+                    "type": "script",
+                    "location": "강변",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "미친. 비상구 정도는 확인해 뒀어야지. 클럽에서 하루 이틀 일한 것도 아니고."
+                },
+                {
+                    "type": "script",
+                    "location": "강변",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "죄책감",
+                    "content": "피곤도 하고 바빠서 그럴 겨를이 없었지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강변",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "보다",
+                    "emotion": "죄책감",
+                    "content": "C005는 C001의 눈치를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강변",
+                    "character": [
+                        "C005"
+                    ],
+                    "emotion": "속상하다",
+                    "content": "C005는 자신만 살아남아 속상해한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강변",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "미안하다",
+                    "content": "C001는 붕대를 감고 있는 C005의 팔은 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "강변",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "그런데 네 팔은 어때? 쉬어야 하는 거 아냐?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 안",
+                    "character": [
+                        "C007"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C007은 텅 빈 객석을 보며 기타 연습을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 안",
+                    "character": [
+                        "클럽 4 사장"
+                    ],
+                    "emotion": "절망하다",
+                    "content": "클럽 4 사장은 한숨을 쉰다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_36",
+            "prev_id": "01_0097_35",
+            "next_id": "01_0097_37",
+            "characters": [
+                "C002",
+                "C002 아빠",
+                "C001",
+                "C005"
+            ],
+            "stage": "Another Story",
+            "storyline": "C002는 아빠한테 끌려가고 C001는 쳐다만 본다.",
+            "causality": "Setback(후퇴/역행/좌절)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "놀라다",
+                    "content": "C002는 차에서 내리다 아빠를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "C002 아빠"
+                    ],
+                    "act": "준다",
+                    "emotion": "괘씸하다",
+                    "content": "C002 아빠는 신문기사를 보여준다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "C002 아빠"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "이놈의 계집애 옷차림새가 이게 뭐야. 당장 이리 안 와?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "C002 아빠"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "화나다",
+                    "content": "C002 아빠는 C002의 머리채를 잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "C002 아빠"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "화나다",
+                    "content": "C002 아빠는 C002를 강제로 끌고 간다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "아빠, 아파. 놔줘. 머리 다 뽑히겠어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "심란하다",
+                    "content": "C001는 끌려가는 C002를 쳐다만 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "C002, 구해줘야 하는 거 아냐?"
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "아빠잖아. 별일 없겠지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 여관으로 들어간다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_37",
+            "prev_id": "01_0097_36",
+            "next_id": "01_0097_38",
+            "characters": [
+                "C003",
+                "C001"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C001는 C003의 악보를 보고 마음에 들어 한다.",
+            "unit_motif": "비밀의 발견/발각",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 홀",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "자신감 있다",
+                    "content": "C003은 구석에 앉아 기타를 친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 홀",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C003은 악보 공책에 음표를 적는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 홀",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "궁금하다",
+                    "content": "C001는 C003의 공책을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 홀",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "공부하냐?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 홀",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "C003은 C001의 목소리에 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 홀",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "궁금하다",
+                    "content": "C001는 C003의 공책을 뺏는다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 홀",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "누구 작품이야? 설마 너?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 홀",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "내 거야. 내 놔. 왜 함부로 보고 그래?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 홀",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "단호하다",
+                    "content": "C001는 C003의 옆에 앉는다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 홀",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "오, 실력 좀 있는데?"
+                }
+            ]
+        },
+        {
+            "id": "01_0097_38",
+            "prev_id": "01_0097_37",
+            "next_id": "01_0097_39",
+            "characters": [
+                "C001",
+                "C003",
+                "C002"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C001는 자신이 만든 곡을 C003한테 보여준다.",
+            "unit_motif": "조력자(후원자)를 만남",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "C001는 주머니에서 수첩을 꺼낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "이리 와서 봐봐."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "궁금하다",
+                    "content": "C003은 수첩을 펼쳐 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "당황하다",
+                    "content": "C003은 갑자기 웃는다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "이게 뭔데? 도대체 알아볼 수가 없네."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "주눅들다",
+                    "content": "네가 좀 도와줘. 같이 하자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "반갑다",
+                    "content": "C002는 모자를 쓴 채 걸어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "안심/안도하다",
+                    "content": "C001는 C002를 보자 안심한다."
+                },
+                {
+                    "type": "script",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "왔어? 괜찮냐?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "단호하다",
+                    "content": "C001는 C002의 모자를 벗긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 1 옥상",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "C001는 짧아진 C002의 머리를 보고 당황한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_39",
+            "prev_id": "01_0097_38",
+            "next_id": "01_0097_40",
+            "characters": [
+                "C001",
+                "C005",
+                "C002",
+                "C003",
+                "E004"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C001는 멤버들과 다시 모여 공연을 계획한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "반갑다",
+                    "content": "C001는 오랜만에 만나는 멤버들을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "오랜만이다. 잘들 지냈지?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "보면 모르냐?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "이제 슬슬 다시 시작해 볼까 하는데. 너희들 생각은 어때?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "당연히 다시 해야지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "emotion": "설레다",
+                    "content": "C001는 C003과 함께 만든 악보를 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 대기실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "창피하다",
+                    "content": "C003은 쑥스러운지 땅만 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 홀",
+                    "character": [
+                        "E004"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "E004은 일본 관광객을 데리고 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 홀",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "반갑다",
+                    "content": "C003은 E004을 향해 윙크를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 홀",
+                    "character": [
+                        "E004"
+                    ],
+                    "emotion": "사랑스럽다",
+                    "content": "E004은 손 키스를 날린다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_40",
+            "prev_id": "01_0097_39",
+            "next_id": "01_0097_41",
+            "characters": [
+                "남자 직원",
+                "손님",
+                "C001",
+                "C002",
+                "경찰",
+                "C006"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C001는 C003과 만든 곡을 사람들에게 들려준다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 쪽문",
+                    "character": [
+                        "남자 직원"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "남자 직원은 기다리는 사람들을 몰래 들여보낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 쪽문",
+                    "character": [
+                        "손님"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "이 많은 사람들은 다 어디서 왔대."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "즐겁다",
+                    "content": "C001는 멤버들과 신나게 연주한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "자신감 있다",
+                    "content": "C002는 음악에 맞춰 새로운 춤을 보여 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 밖",
+                    "character": [
+                        "경찰"
+                    ],
+                    "emotion": "단호하다",
+                    "content": "통금 시간에 돌아다니는 사람을 잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 밖",
+                    "character": [
+                        "경찰"
+                    ],
+                    "act": "듣다",
+                    "content": "경찰은 클럽 4에서 들리는 음악 소리를 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 밖",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "난감하다",
+                    "content": "C006은 경찰을 발견하고 클럽으로 달려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "C006은 무대 위로 올라가 C001한테 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "절박하다",
+                    "content": "경찰이야. 철수해."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 4 무대",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "우리는 죄지은 거 없어요. 잡아갈 테면 잡아가라고 해!"
+                }
+            ]
+        },
+        {
+            "id": "01_0097_41",
+            "prev_id": "01_0097_40",
+            "next_id": "01_0097_42",
+            "characters": [
+                "C001",
+                "C003",
+                "수사관",
+                "C006"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C001와 C003은 고문을 당하고 풀려나는 조건으로 다른 가수들의 이름을 말한다.",
+            "causality": "Catharsis(카타르시스)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수사실 1 지하",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "emotion": "비참하다",
+                    "content": "C001와 C003은 수사관한테 고문을 당한다."
+                },
+                {
+                    "type": "script",
+                    "location": "수사실 1 지하",
+                    "character": [
+                        "수사관"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "이런 음악 하는 애들 많이 알잖아. 말해. 몇 명만 말하면 풀어줄게."
+                },
+                {
+                    "type": "script",
+                    "location": "수사실 1 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "절박하다",
+                    "content": "그 말 믿어도 돼요?"
+                },
+                {
+                    "type": "script",
+                    "location": "수사실 1 지하",
+                    "character": [
+                        "수사관"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "그럼. 어서 말해봐."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수사실 1 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "절박하다",
+                    "content": "C003은 피를 흘리고 있는 C001를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수사실 1 지하",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "절박하다",
+                    "content": "C001는 포기한 듯 고개를 끄덕인다."
+                },
+                {
+                    "type": "script",
+                    "location": "수사실 1 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "진짜 저는 풀어주시는 거예요. 밴드명 2, 밴드명 3, 밴드명 4요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수사실 1 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "C003은 이름을 술술 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수사실 1 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "안타깝다",
+                    "content": "C006은 온몸에 멍이든 C001와 C003을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수사실 1 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "안심/안도하다",
+                    "content": "C001는 C006을 보자 웃는다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_42",
+            "prev_id": "01_0097_41",
+            "next_id": "01_0097_43",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C002는 군대 간 C001를 면회 온다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "군대 면회실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "자신감 있다",
+                    "content": "C002는 준비한 음식을 테이블에 꺼낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "군대 면회실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "이게 다 뭐냐? 어디 잔칫집 갔다 왔냐?"
+                },
+                {
+                    "type": "script",
+                    "location": "군대 면회실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "속상하다",
+                    "content": "그냥 조용히 하고 먹기나 해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "군대 면회실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "만족하다",
+                    "content": "C001는 음식을 허겁지겁 먹는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "군대 면회실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "content": "C002는 C001한테 물을 따라 준다."
+                },
+                {
+                    "type": "script",
+                    "location": "군대 면회실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "맛있지? 천천히 많이 먹어."
+                },
+                {
+                    "type": "script",
+                    "location": "군대 면회실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "가수 생활은 어때? 할만해?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "군대 면회실",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "우울하다",
+                    "content": "C002는 힘들었는지 눈물을 글썽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "군대 면회실",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "창피하다",
+                    "content": "C002는 눈물을 손으로 닦는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "군대 면회실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "먹는다",
+                    "content": "C001는 말없이 음식을 먹는다."
+                }
+            ]
+        },
+        {
+            "id": "01_0097_43",
+            "prev_id": "01_0097_42",
+            "characters": [
+                "C001",
+                "고참"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C001는 고참들 앞에서 록을 보여준다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "군대 내무반",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "씁쓸하다",
+                    "content": "C001는 면회를 끝내고 들어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "군대 내무반",
+                    "character": [
+                        "고참"
+                    ],
+                    "act": "말하다",
+                    "emotion": "부럽다",
+                    "content": "애인도 다 있고. 이쁘냐?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "군대 내무반",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "심란하다",
+                    "content": "C001는 아무 말 없이 자기 자리로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "군대 내무반",
+                    "character": [
+                        "고참"
+                    ],
+                    "emotion": "즐겁다",
+                    "content": "고참은 TV에서 흘러나오는 음악을 따라 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "군대 내무반",
+                    "character": [
+                        "고참"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "반갑다",
+                    "content": "C001는 TV에 나온 C002와 C003을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "군대 내무반",
+                    "character": [
+                        "고참"
+                    ],
+                    "act": "말하다",
+                    "content": "노래 죽이는데? 가수도 곱다 고와."
+                },
+                {
+                    "type": "script",
+                    "location": "군대 내무반",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "저런 건 노래도 아니죠. 락! 락이야말로 진정한 음악이죠."
+                },
+                {
+                    "type": "narrative",
+                    "location": "군대 내무반",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C001는 자리에서 벌떡 일어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "군대 내무반",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "C001는 대걸레로 기타 치는 시늉을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "군대 내무반",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "역시 이게 진정한 음악이야."
+                }
+            ]
+        }
+    ]
+}
