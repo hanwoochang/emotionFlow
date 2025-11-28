@@ -1,0 +1,5459 @@
+{
+    "id": "01_0817",
+    "type": "movie",
+    "title": "진실된 사랑을 하고 있나요",
+    "genre": [
+        "멜로/로맨스"
+    ],
+    "year": 2007,
+    "theme": "금지된 사랑",
+    "concept": "결혼한 두 커플은 결혼생활 중 갈등을 겪으며 친구의 결혼 상대자에게 관심이 간다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "스와핑",
+    "main_character": "까칠함",
+    "conflict": "친구의 결혼 상대자가 자신과 더 잘 맞는 파트너임을 깨닫는다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007"
+    ],
+    "units": [
+        {
+            "id": "01_0817_01",
+            "next_id": "01_0817_02",
+            "characters": [
+                "C001",
+                "C003",
+                "C002"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "지혜는 도서관에서 C002과 책이 바뀐다.",
+            "unit_motif": "만남",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "교정",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "즐겁다",
+                    "content": "지혜와 C003이 도서관에서 나온다."
+                },
+                {
+                    "type": "script",
+                    "location": "교정",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "경기 본다고?"
+                },
+                {
+                    "type": "script",
+                    "location": "교정",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "그래."
+                },
+                {
+                    "type": "script",
+                    "location": "교정",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "미쳤어."
+                },
+                {
+                    "type": "script",
+                    "location": "교정",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "너나 공부해."
+                },
+                {
+                    "type": "script",
+                    "location": "교정",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "너 먼저 가라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교정",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "걱정",
+                    "content": "지혜가 도로 도서관으로 뛰어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "도서관",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "담담하다",
+                    "content": "난 늘 잘 잃어버렸어요."
+                },
+                {
+                    "type": "script",
+                    "location": "도서관",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "담담하다",
+                    "content": "나도 누군가의 분실물이겠죠."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도서관",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "편안하다",
+                    "content": "지혜가 책을 찾고서 안도의 숨을 쉰다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도서관",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "피곤하다",
+                    "content": "C002이 한참을 공부하다 지친 듯 기지개를 편다."
+                },
+                {
+                    "type": "script",
+                    "location": "도서관",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "놀라다",
+                    "content": "내 책 아니야."
+                },
+                {
+                    "type": "script",
+                    "location": "도서관",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "담담하다",
+                    "content": "인연이 아니었을까."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_02",
+            "prev_id": "01_0817_01",
+            "next_id": "01_0817_03",
+            "characters": [
+                "C004",
+                "C003"
+            ],
+            "stage": "Main Character",
+            "storyline": "C003은 남자친구와 야구 경기장을 가는데 남자친구가 실망스럽다.",
+            "unit_motif": "만남",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "야구장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "유쾌하다",
+                    "content": "C004는 따분한 표정의 여자친구와 앉아 열띤 응원을 하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "야구장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "유쾌하다",
+                    "content": "뒤에서 C003도 큰 소리로 응원하고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "야구장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "유쾌하다",
+                    "content": "잘해!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "야구장",
+                    "content": "관중석을 향해 홈런볼이 날아간다."
+                },
+                {
+                    "type": "script",
+                    "location": "야구장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "유쾌하다",
+                    "content": "홈런볼을 잡은 듯했죠."
+                },
+                {
+                    "type": "narrative",
+                    "location": "야구장",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "다루다",
+                    "emotion": "유쾌하다",
+                    "content": "C004와 C003이 홈런볼을 잡으려 몸부림친다."
+                },
+                {
+                    "type": "script",
+                    "location": "야구장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "유쾌하다",
+                    "content": "멋진 남자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "야구장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "유쾌하다",
+                    "content": "C004의 손에 홈런볼이 떨어지고 C004는 공을 들고 환호한다."
+                },
+                {
+                    "type": "script",
+                    "location": "야구장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "실망하다",
+                    "content": "근데 아니더라고요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "야구장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "때리다",
+                    "emotion": "실망하다",
+                    "content": "C003이 C004를 노려보다가 응원용 방망이로 남자친구 C004를 사정없이 팬다."
+                },
+                {
+                    "type": "script",
+                    "location": "야구장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "실망하다",
+                    "content": "병살타였어요."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_03",
+            "prev_id": "01_0817_02",
+            "next_id": "01_0817_04",
+            "characters": [
+                "C003",
+                "C001",
+                "C002",
+                "C004"
+            ],
+            "stage": "Main Character",
+            "storyline": "C003과 지혜는 한 오피스텔에서 같이 지내고 C004와 C002도 한 오피스텔에서 동거 중이다.",
+            "unit_motif": "만남",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지혜와 C003 오피스텔",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "다루다",
+                    "emotion": "유쾌하다",
+                    "content": "C003이 지혜의 앞에서 격렬한 에어로빅을 하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜와 C003 오피스텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "피곤하다",
+                    "content": "지혜는 인상을 쓰곤 신문을 들고서 화장실로 들어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜와 C003 오피스텔",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "문 닫아라."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜와 C003 오피스텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "네가 닫아."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜와 C003 오피스텔",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "더러워."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜와 C003 오피스텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C006이 결혼식이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002과 C004 오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "만족하다",
+                    "content": "C002은 소파에 앉아 커피를 마시면서 신문을 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002과 C004 오피스텔",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "만족하다",
+                    "content": "이와 대조적으로 C004는 침대에 뻗어서 자고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002과 C004 오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "한판 더 하죠."
+                },
+                {
+                    "type": "script",
+                    "location": "C002과 C004 오피스텔",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "안돼."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002과 C004 오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "emotion": "유쾌하다",
+                    "content": "C002이 C004의 엉덩짝을 때린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002과 C004 오피스텔",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "놀라다",
+                    "content": "C004가 놀라 벌떡 일어난다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002과 C004 오피스텔",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "뭐야."
+                },
+                {
+                    "type": "script",
+                    "location": "C002과 C004 오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "일어나."
+                },
+                {
+                    "type": "script",
+                    "location": "C002과 C004 오피스텔",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "그래."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_04",
+            "prev_id": "01_0817_03",
+            "next_id": "01_0817_05",
+            "characters": [
+                "C003",
+                "C001",
+                "C002",
+                "C004",
+                "여배우"
+            ],
+            "stage": "Main Character",
+            "storyline": "C003은 에어로빅 강사, C001는 C001, C002은 대학교수, C004는 광고 감독이다.",
+            "unit_motif": "만남",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "에어로빅학원",
+                    "content": "흥겨운 음악에 맞춰 히프가 이리저리 움직인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "에어로빅학원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "시키다",
+                    "emotion": "유쾌하다",
+                    "content": "C003은 주부들에게 에어로빅을 가르치고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도서관",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "읽다",
+                    "emotion": "기대되다",
+                    "content": "지혜는 도서관에서 자료를 조사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도서관",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "지혜는 저명인사를 만나 인터뷰를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강의실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C002은 대학 강의실에서 강의를 하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "촬영장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "시키다",
+                    "emotion": "불만족스럽다",
+                    "content": "CF 촬영 중인 C004가 여배우를 사정없이 몰아붙인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "촬영장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "만족하다",
+                    "content": "텅 빈 스튜디오에서 C004가 여배우와 키스한다."
+                },
+                {
+                    "type": "script",
+                    "location": "촬영장",
+                    "character": [
+                        "여배우"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "잘하시네."
+                },
+                {
+                    "type": "script",
+                    "location": "촬영장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "그래."
+                },
+                {
+                    "type": "narrative",
+                    "location": "촬영장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "만족하다",
+                    "content": "C004의 손이 여배우의 치마 속으로 들어간다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_05",
+            "prev_id": "01_0817_04",
+            "next_id": "01_0817_06",
+            "characters": [
+                "C001",
+                "C005"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "지혜는 기사를 쓰다 피시통신 아이디를 구하려고 C003에게 연락을 한다.",
+            "unit_motif": "결심",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "긴장되다",
+                    "content": "지혜가 컴퓨터 앞에 앉아 원고를 쓰고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "원고 써주는 컴퓨터 나오면 좋겠다."
+                },
+                {
+                    "type": "script",
+                    "location": "편집실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "책도 만들어달라고 하지."
+                },
+                {
+                    "type": "script",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "긴장된다."
+                },
+                {
+                    "type": "script",
+                    "location": "편집실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "뭐?"
+                },
+                {
+                    "type": "script",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "아이디 끝났다고."
+                },
+                {
+                    "type": "script",
+                    "location": "편집실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "누구 애가 죽었다고?"
+                },
+                {
+                    "type": "script",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "아이디요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편집실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "창피하다",
+                    "content": "C005이 무안함에 버럭 화를 낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "편집실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "나도 알아!"
+                },
+                {
+                    "type": "script",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "비밀번호는 뭐였지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "긴장되다",
+                    "content": "지혜가 수화기를 든다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_06",
+            "prev_id": "01_0817_05",
+            "next_id": "01_0817_07",
+            "characters": [
+                "C003",
+                "남자",
+                "C001"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "지혜는 C003의 아이디로 PC 통신에 접속하고 C002의 글을 본다.",
+            "unit_motif": "만남",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "유쾌하다",
+                    "content": "C003은 남자랑 한창 차에서 섹스 중이다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "전화받아."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "남자"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "핸드폰 없어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "유쾌하다",
+                    "content": "C003이 몸은 남자에게 맡긴 채 핸드백을 더듬어 핸드폰을 꺼낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "지금 바쁘다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "비밀번호 뭐였냐."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "C003이 알려준다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "복잡하네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "유쾌하다",
+                    "content": "지혜가 피식 웃으며 전화를 끊는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "지혜가 PC 통신에 올라온 글을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "하석진."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_07",
+            "prev_id": "01_0817_06",
+            "next_id": "01_0817_08",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C002과 지혜는 결혼에 대한 의견을 두고 PC 통신에서 맞붙는다.",
+            "unit_motif": "말싸움/의견충돌",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "단호하다",
+                    "content": "결혼은 남자한테 불리하다."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "단호하다",
+                    "content": "남성은 변화를 좋아한다."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "단호하다",
+                    "content": "그러니 여성과 맞지 않다."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "단호하다",
+                    "content": "결혼은 어렵다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편집부",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "화나다",
+                    "content": "C002의 글에 화가 난 지혜가 열나게 키보드를 두드린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "모니터를 들여다보며 검색하던 C002이 뭔가 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "편집부",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "단호하다",
+                    "content": "C003."
+                },
+                {
+                    "type": "script",
+                    "location": "편집부",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "단호하다",
+                    "content": "결혼은 여성에게 불리하다."
+                },
+                {
+                    "type": "script",
+                    "location": "편집부",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "단호하다",
+                    "content": "여성은 노예로 전락한다."
+                },
+                {
+                    "type": "script",
+                    "location": "편집부",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "단호하다",
+                    "content": "가부장제 사회에서 여성은 쓰레기 취급을 받는다."
+                },
+                {
+                    "type": "script",
+                    "location": "편집부",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "단호하다",
+                    "content": "결혼은 여성에게 불리하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "놀라다",
+                    "content": "C002이 이것 봐라 하는 듯 피식 웃다가 키보드를 두드린다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_08",
+            "prev_id": "01_0817_07",
+            "next_id": "01_0817_09",
+            "characters": [
+                "C002",
+                "C001",
+                "C005"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C002과 지혜는 흥분해 채팅을 하고 결국 만남까지 약속한다.",
+            "unit_motif": "새로운 만남",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "열광하다",
+                    "content": "C002이 열나게 키보드를 두드리며 논쟁에 빠진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "열광하다",
+                    "content": "지혜가 열나게 키보드를 두드리며 논쟁에 빠진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "열광하다",
+                    "content": "드디어 C002이 마지막 엔터키를 누른다."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "열광하다",
+                    "content": "내일 만나죠."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "열광하다",
+                    "content": "지혜도 엔터키를 누른다."
+                },
+                {
+                    "type": "script",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "열광하다",
+                    "content": "그래요."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "열광하다",
+                    "content": "네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "열광하다",
+                    "content": "땀을 흘리며 숨을 헐떡이는 C002은 흥분된 표정이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편집실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "열광하다",
+                    "content": "땀을 흘리며 숨을 헐떡이는 지혜도 역시나 흥분된 표정이다."
+                },
+                {
+                    "type": "script",
+                    "location": "편집실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "원고 쓰라 했지!"
+                }
+            ]
+        },
+        {
+            "id": "01_0817_09",
+            "prev_id": "01_0817_08",
+            "next_id": "01_0817_10",
+            "characters": [
+                "C004",
+                "C002"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C002은 지혜를 만날 생각에 들뜬다.",
+            "unit_motif": "새로운 만남",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "오피스텔",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "마시다",
+                    "emotion": "안타깝다",
+                    "content": "C004가 캔맥주를 딴다."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "얼굴 별로일걸."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "상관없어."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "너 언제 잤냐?"
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "뭐?"
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "콘돔 말이야."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "몰라."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "쯧."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "기대되다",
+                    "content": "C002이 피식 웃는다."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "그것 때문이 아니야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "기대되다",
+                    "content": "C002이 중얼거린다."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "기대되다",
+                    "content": "C003. 이름도 예뻐."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_10",
+            "prev_id": "01_0817_09",
+            "next_id": "01_0817_11",
+            "characters": [
+                "인터뷰남",
+                "C001",
+                "상담사"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C002을 만날 시간이 다가오는데 인터뷰가 끝나지 않자 지혜는 C003에게 부탁을 한다.",
+            "unit_motif": "새로운 만남",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "호텔",
+                    "character": [
+                        "인터뷰남"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "인터뷰 남자가 장광설을 늘어놓고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "피곤하다",
+                    "content": "지혜는 웃고 있으나 불편한 기색이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔",
+                    "content": "벽시계가 6시 가리킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔",
+                    "character": [
+                        "인터뷰남"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "아직도 계속 남자는 장광설을 늘어놓고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "초조하다",
+                    "content": "지혜의 표정이 초조해진다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "초조하다",
+                    "content": "화장실 갈게요."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "초조하다",
+                    "content": "카페입니다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔",
+                    "character": [
+                        "상담사"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "미안해요 전화번호부에 없어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "초조하다",
+                    "content": "지혜가 꺼질 듯 한숨을 내쉬다 다시 번호를 누른다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "초조하다",
+                    "content": "부탁 좀 할게."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_11",
+            "prev_id": "01_0817_10",
+            "next_id": "01_0817_12",
+            "characters": [
+                "C003",
+                "C002"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "지혜를 대신해 나간 C003과 C002이 첫눈에 반한다.",
+            "unit_motif": "첫눈에 반함",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "설레다",
+                    "content": "C003의 모습이 C002의 눈에 느리게 비친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "설레다",
+                    "content": "C002의 시선이 점차 놀라움으로 변한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "설레다",
+                    "content": "C003은 묘한 끌림으로 C002에게 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "설레다",
+                    "content": "C003이 다가올수록 C002은 점점 긴장한다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "C002?"
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "네."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "지혜는."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "C003군요."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "네."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "반갑네요."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "설레다",
+                    "content": "소개팅인가?"
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "앉을게요."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "그래요."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_12",
+            "prev_id": "01_0817_11",
+            "next_id": "01_0817_13",
+            "characters": [
+                "C003",
+                "C001",
+                "C002"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C003이 C002과 즐거운 모습을 본 지혜는 진실을 털어놓지 못한다.",
+            "unit_motif": "거짓말",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "똑똑하시네요."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "C003아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "즐겁다",
+                    "content": "C003이 돌아보면 지혜다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "잠깐만."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "즐겁다",
+                    "content": "C003이 지혜를 데리고 구석으로 간다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "소개팅 너무 좋네."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "뭐?"
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "소개팅 아니야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "지혜가 황당한 표정이 된다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "어제 논쟁 좋았어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "실망하다",
+                    "content": "지혜가 억지 미소를 짓는다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "실망하다",
+                    "content": "네."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_13",
+            "prev_id": "01_0817_12",
+            "next_id": "01_0817_14",
+            "characters": [
+                "C003",
+                "C001"
+            ],
+            "stage": "Setting-up",
+            "storyline": "지혜는 C003에게 C002에게 사실을 숨기기로 하고 대신 남자친구를 소개해달라고 한다.",
+            "unit_motif": "감정을 부정",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "오피스텔",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "난감하다",
+                    "content": "C003과 지혜가 심각한 표정으로 식탁에 마주 앉아있다."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "미안해."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "실망하다",
+                    "content": "됐어."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "아까 말해주지."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "실망하다",
+                    "content": "아니야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오피스텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "미안하다",
+                    "content": "지혜가 C003이 미안해하는 게 안쓰러워 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "미안하다",
+                    "content": "네가 나 소개팅 시켜줘."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "미안하다",
+                    "content": "그래."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "힘 좋은 남자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "오피스텔",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "놀다",
+                    "emotion": "놀라다",
+                    "content": "C003이 지혜에게 쿠션을 던진다."
+                },
+                {
+                    "type": "script",
+                    "location": "오피스텔",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "그래."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_14",
+            "prev_id": "01_0817_13",
+            "next_id": "01_0817_15",
+            "characters": [
+                "C001",
+                "기사",
+                "C004"
+            ],
+            "stage": "Setting-up",
+            "storyline": "지혜는 차 사고가 난 상황에서 상대 운전자에게 손찌검을 당하고 그 모습을 C004가 본다.",
+            "unit_motif": "새로운 만남",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "지혜의 앙칼진 목소리가 도로에 울려 퍼진다."
+                },
+                {
+                    "type": "script",
+                    "location": "도로",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C004이 먼저 왔잖아요!"
+                },
+                {
+                    "type": "script",
+                    "location": "도로",
+                    "character": [
+                        "기사"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "언제 그랬어! 이년이!"
+                },
+                {
+                    "type": "script",
+                    "location": "도로",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "얻다 대고 욕이야!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "기사"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "화나다",
+                    "content": "기사가 손을 들어 위협한다."
+                },
+                {
+                    "type": "script",
+                    "location": "도로",
+                    "character": [
+                        "기사"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "화나다",
+                    "content": "한대 때릴까 보다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "지혜가 그 소리에 기가 질려 소리친다."
+                },
+                {
+                    "type": "script",
+                    "location": "도로",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "때려봐!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "기사"
+                    ],
+                    "act": "때리다",
+                    "emotion": "화나다",
+                    "content": "택시기사가 지혜의 뺨을 때린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "이때 C004의 차, 지혜의 옆을 스쳐 지나간다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_15",
+            "prev_id": "01_0817_14",
+            "next_id": "01_0817_16",
+            "characters": [
+                "기사",
+                "C004",
+                "C001",
+                "경찰관"
+            ],
+            "stage": "Setting-up",
+            "storyline": "지혜는 사고 현장에서 자신을 구해준 C004와 함께 경찰서로 간다.",
+            "unit_motif": "새로운 만남",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "도로",
+                    "character": [
+                        "기사"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "나 머리 아프게 하지 마!"
+                },
+                {
+                    "type": "script",
+                    "location": "도로",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "이봐!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "때리다",
+                    "emotion": "화나다",
+                    "content": "C004가 주먹을 날린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "지혜가 놀라 멍해진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "경찰서",
+                    "character": [
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "난감하다",
+                    "content": "지혜와 C004가 나란히 앉아 취조 받고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "경찰서",
+                    "character": [
+                        "경찰관"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "난감하다",
+                    "content": "뭐 하는 짓이죠."
+                },
+                {
+                    "type": "script",
+                    "location": "경찰서",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "몰랐죠."
+                },
+                {
+                    "type": "script",
+                    "location": "경찰서",
+                    "character": [
+                        "경찰관"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "애인 힘 좋네."
+                },
+                {
+                    "type": "script",
+                    "location": "경찰서",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "나 이 사람 모릅니다."
+                },
+                {
+                    "type": "script",
+                    "location": "경찰서",
+                    "character": [
+                        "경찰관"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "치료비 누가 낼래?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "경찰서",
+                    "character": [
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "난감하다",
+                    "content": "C004, 지혜 서로 상대방을 가리킨다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_16",
+            "prev_id": "01_0817_15",
+            "next_id": "01_0817_17",
+            "characters": [
+                "C004",
+                "C003",
+                "C002",
+                "C001"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C004와 지혜가 C002과 C003의 소개와 기묘한 인연으로 만나게 된다.",
+            "unit_motif": "새로운 만남",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "반갑다",
+                    "content": "C004가 C002을 보고 손을 흔든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "반갑다",
+                    "content": "C002 옆엔 C003이 다소곳하게 앉아 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "미안, 사고 났어."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "괜찮아?"
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "응."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "C004."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "네 형수 될 사람이다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "뭐?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "즐겁다",
+                    "content": "C003이 쿡쿡 웃는다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "오다가 사고 나서 그래."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C004",
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C004와 지혜가 서로 마주 본 채 굳어진다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "두 분 알아?"
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "그래."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_17",
+            "prev_id": "01_0817_16",
+            "next_id": "01_0817_18",
+            "characters": [
+                "친구",
+                "C001",
+                "C003",
+                "C004",
+                "C002",
+                "여자들",
+                "남자들"
+            ],
+            "stage": "1st Accident",
+            "storyline": "지혜와 C004, C003과 C002이 합동결혼식을 올린다.",
+            "unit_motif": "결혼",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "결혼식장",
+                    "character": [
+                        "친구"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "결혼?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "결혼식장",
+                    "content": "이어서 결혼행진곡을 치는 피아노 건반 위의 손이 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "결혼식장",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C004",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "행복하다",
+                    "content": "지혜, C003, C004, C002 네 사람이 신랑신부가 되어 동시에 입장한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "결혼식장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "준다",
+                    "emotion": "행복하다",
+                    "content": "C004가 지혜에게 반지를 끼워준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "결혼식장",
+                    "character": [
+                        "여자들"
+                    ],
+                    "act": "울다",
+                    "emotion": "씁쓸하다",
+                    "content": "하객들 쪽에서 손수건을 적시며 훌쩍이는 몇 명의 여자들이 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "결혼식장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "행복하다",
+                    "content": "C003이 C002의 볼에 키스한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "결혼식장",
+                    "character": [
+                        "남자들"
+                    ],
+                    "act": "보다",
+                    "emotion": "씁쓸하다",
+                    "content": "하객들 쪽에서 적의에 찬 표정으로 인민군대식 손뼉을 치는 남자들이 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "결혼식장",
+                    "content": "두 개의 부케가 함께 날아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "결혼식장",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "행복하다",
+                    "content": "C003과 C002이 행복하게 웃는 모습으로 사진을 찍는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "결혼식장",
+                    "character": [
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "행복하다",
+                    "content": "지혜와 C004가 행복하게 웃는 모습으로 사진을 찍는다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_18",
+            "prev_id": "01_0817_17",
+            "next_id": "01_0817_19",
+            "characters": [
+                "C001",
+                "C003",
+                "C002"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "지혜 커플과 C003 커플은 서로의 기상 습관에 불편함을 느낀다.",
+            "unit_motif": "가족 불화",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "피곤하다",
+                    "content": "지혜가 자명종 소리에 잠이 깬다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "피곤하다",
+                    "content": "시계 꺼."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "피곤하다",
+                    "content": "지혜가 벌떡 일어난다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "피곤하다",
+                    "content": "좀 꺼."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "지혜가 옆에 누워 자고 있는 C004를 보고 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "놀라다",
+                    "content": "나 결혼했구나."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "편안하다",
+                    "content": "일어났니."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "피곤하다",
+                    "content": "왜 이렇게 안 일어나."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "편안하다",
+                    "content": "원래 그래."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "편안하다",
+                    "content": "C003이 C002의 볼에 뽀뽀하고 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "피곤하다",
+                    "content": "C002이 C003이 나가자 멍하니 중얼거린다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "피곤하다",
+                    "content": "피곤해."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_19",
+            "prev_id": "01_0817_18",
+            "next_id": "01_0817_20",
+            "characters": [
+                "C002",
+                "C003",
+                "C001",
+                "C004"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "지혜와 C002은 서로의 기상 팁을 나눈다.",
+            "unit_motif": "가족 불화",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "담담하다",
+                    "content": "C002이 큰 소리로 외친다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "담담하다",
+                    "content": "한 번 더 해!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C002이 고개를 돌리면 C003이 서 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "그렇게 좋았냐?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "지혜가 수화기를 놓고서 C004를 빤히 바라본다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C004."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "담담하다",
+                    "content": "지혜가 C004의 등에 키스하고 귀에 속삭인다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "한번 더하자."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "그래."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "즐겁다",
+                    "content": "꺄!"
+                }
+            ]
+        },
+        {
+            "id": "01_0817_20",
+            "prev_id": "01_0817_19",
+            "next_id": "01_0817_21",
+            "characters": [
+                "C003",
+                "C001",
+                "C004",
+                "C002"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C001, C003, C004, C002은 다른 커플의 속 사정을 궁금해한다.",
+            "unit_motif": "추궁",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "어때?"
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "만족하다",
+                    "content": "되게 잘해."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "그래?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "궁금하다",
+                    "content": "지혜가 짓궂은 표정으로 C003을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "궁금하다",
+                    "content": "다른 남자는 어떨까."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "너 얼마나 해봤냐?"
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "궁금하다",
+                    "content": "뭐가?"
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "말해봐."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "만족하다",
+                    "content": "10번."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C004가 놀라서 입을 다물지 못한다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "왜."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_21",
+            "prev_id": "01_0817_20",
+            "next_id": "01_0817_22",
+            "characters": [
+                "C002",
+                "C003",
+                "C001",
+                "C004"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "두 커플은 결혼생활에 만족해한다.",
+            "unit_motif": "고민 해결",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "읽다",
+                    "emotion": "즐겁다",
+                    "content": "C002이 침대에 앉아 C003을 뒤에서 껴안고서 시집을 들고 읽어준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C002",
+                        "C003"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "C002과 C003이 거실에서 탱고 음악에 맞춰 춤을 춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "C002이 발이 걸려 넘어지자 그대로 C003의 치마 속으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다루다",
+                    "emotion": "즐겁다",
+                    "content": "지혜가 컴퓨터 앞에 앉아 일하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "즐겁다",
+                    "content": "C004가 지혜에게 키스하고 애무하며 흥분시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "즐겁다",
+                    "content": "지혜는 C004의 애무에도 끄떡없이 일한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "돕다",
+                    "emotion": "즐겁다",
+                    "content": "C004가 지혜를 그대로 안아 들고서 침실로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "스튜디오",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다루다",
+                    "emotion": "즐겁다",
+                    "content": "스튜디오에서 C004가 촬영하는 모습을 지혜가 황홀한 표정으로 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "스튜디오",
+                    "character": [
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "즐겁다",
+                    "content": "C001와 C004 두 사람은 텅 빈 스튜디오에서 격렬한 키스를 나눈다."
+                },
+                {
+                    "type": "script",
+                    "location": "스튜디오",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "결혼 좋네."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_22",
+            "prev_id": "01_0817_21",
+            "next_id": "01_0817_23",
+            "characters": [
+                "C004",
+                "C001"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C004와 지혜는 음식 문제로 불편함을 느낀다.",
+            "unit_motif": "가족 불화",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "content": "먹음직스러운 김치찌개가 식탁 위에 놓인다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "맛있겠다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "만족하다",
+                    "content": "지혜가 흐뭇한 미소를 짓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "content": "또다시 김치찌개가 식탁에 놓인다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "김치찌개."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "응."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "맛있어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "불만족스럽다",
+                    "content": "C004가 인상을 쓰고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "content": "C004 앞 식탁에는 또 김치찌개가 놓여 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "진짜 많이 먹네."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "오늘은 다른 김치찌개야."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "다른 것 좀 먹자."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "네가 만들어."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_23",
+            "prev_id": "01_0817_22",
+            "next_id": "01_0817_24",
+            "characters": [
+                "C002",
+                "C003"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C002과 C003도 음식 문제로 갈등이 생긴다.",
+            "unit_motif": "가족 불화",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "content": "식탁 위는 순 야채로 된 반찬뿐이다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "이거 어떻게 배웠니."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "원래 잘해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "content": "역시나 야채뿐인 식탁이다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "또."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "왜?"
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "아니야."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "난 채식주의자 거든."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "content": "닭볶음탕, 갈비찜 등 고기뿐인 식탁이 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C003이 놀라 바라본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "이제 번갈아가면서 밥 먹자."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "고기잖아."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "난 육식주의자 거든."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_24",
+            "prev_id": "01_0817_23",
+            "next_id": "01_0817_25",
+            "characters": [
+                "C001",
+                "C003",
+                "C006",
+                "C007"
+            ],
+            "stage": "Villains Move",
+            "storyline": "지혜와 C003은 결혼생활에서 맞지 않는 점을 토로한다.",
+            "unit_motif": "진솔한 대화",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "스포츠센터",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "다루다",
+                    "emotion": "불만족스럽다",
+                    "content": "지혜와 C003이 헬스를 하고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "스포츠센터",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "아침마다 각자 먹자."
+                },
+                {
+                    "type": "script",
+                    "location": "스포츠센터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "부럽다",
+                    "content": "좋겠다."
+                },
+                {
+                    "type": "script",
+                    "location": "스포츠센터",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "불만이야."
+                },
+                {
+                    "type": "script",
+                    "location": "스포츠센터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "삼시 세끼 매번 음식 만들기도 힘들어."
+                },
+                {
+                    "type": "script",
+                    "location": "스포츠센터",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "슬프다",
+                    "content": "난 그럴 사람도 없어."
+                },
+                {
+                    "type": "script",
+                    "location": "스포츠센터",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "누가 이혼하래?"
+                },
+                {
+                    "type": "script",
+                    "location": "스포츠센터",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "그만둬."
+                },
+                {
+                    "type": "narrative",
+                    "location": "스포츠센터",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "울다",
+                    "emotion": "슬프다",
+                    "content": "C006이 코를 푼다."
+                },
+                {
+                    "type": "script",
+                    "location": "스포츠센터",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "괘씸하다",
+                    "content": "좀 더 지나봐라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "스포츠센터",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C003과 지혜가 C006을 동시에 쳐다본다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_25",
+            "prev_id": "01_0817_24",
+            "next_id": "01_0817_26",
+            "characters": [
+                "C001",
+                "C004"
+            ],
+            "stage": "Villains Move",
+            "storyline": "지혜와 C004는 TV 채널을 두고 다툰다.",
+            "unit_motif": "가족 불화",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "지혜와 C004가 TV 채널을 놓고 다툰다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "뉴스 잠깐 보자."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "싫어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C004가 지혜의 손에 들린 리모컨을 빼앗아 채널을 돌린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "지혜가 소리친다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "뭐야!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C004가 TV를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "잠깐만."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "야!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "지혜와 C004가 리모컨을 사수하려 엎치락뒤치락한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_26",
+            "prev_id": "01_0817_25",
+            "next_id": "01_0817_27",
+            "characters": [
+                "C003",
+                "C002"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C002과 C003도 TV 채널을 두고 다툰다.",
+            "unit_motif": "가족 불화",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C002과 C003 역시 TV 채널을 놓고 다툰다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C003이 애교 가득한 몸짓으로 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "불만족스럽다",
+                    "content": "신데렐라 마지막 회야."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "반대하다",
+                    "emotion": "불만족스럽다",
+                    "content": "근데."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C003이 손을 C002의 팬티 속으로 넣는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "불만족스럽다",
+                    "content": "제발."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C003이 그러면서 다른 한 손은 리모컨으로 향하고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "반대하다",
+                    "emotion": "불만족스럽다",
+                    "content": "드라마 싫어해."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "쳇."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "이거나 어떻게 해봐."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_27",
+            "prev_id": "01_0817_26",
+            "next_id": "01_0817_28",
+            "characters": [
+                "C001",
+                "C004"
+            ],
+            "stage": "Villains Move",
+            "storyline": "지혜와 C004는 취향이 서로 다르다.",
+            "unit_motif": "가족 불화",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "담담하다",
+                    "content": "두 사람이 식사 중이다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "열광하다",
+                    "content": "이번에 박찬호가 모델이래."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C004."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "열광하다",
+                    "content": "캠코더로 찍어야지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "지혜가 소리친다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C004!"
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "열광하다",
+                    "content": "응?"
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "화나다",
+                    "content": "더러워."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "열광하다",
+                    "content": "근데?"
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "박찬호 만나면 사인받아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "열광하다",
+                    "content": "C004가 기뻐한다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "열광하다",
+                    "content": "그래."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그거 팔자."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_28",
+            "prev_id": "01_0817_27",
+            "next_id": "01_0817_29",
+            "characters": [
+                "C002",
+                "C003"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C002과 C003은 서로의 취향이 맞지 않는다.",
+            "unit_motif": "가족 불화",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "서점",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "편안하다",
+                    "content": "C002이 문학 코너에서 진지한 표정으로 책을 고르고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "서점",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "피곤하다",
+                    "content": "C003은 지루하고 따분한 표정으로 C002의 주위를 배회한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "서점",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "기대되다",
+                    "content": "C003이 잡지 코너를 발견하고 환하게 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "서점",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "기대되다",
+                    "content": "C003이 책을 펼쳐 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "서점",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "불만족스럽다",
+                    "content": "C002이 그런 C003을 한심하게 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "서점",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "뭐 하냐."
+                },
+                {
+                    "type": "narrative",
+                    "location": "서점",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "피곤하다",
+                    "content": "C003이 돌아보면 C002이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "서점",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "불만족스럽다",
+                    "content": "C002은 C003이 들고 있는 책 위에 한 권의 책을 얹는다."
+                },
+                {
+                    "type": "script",
+                    "location": "서점",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "피곤하다",
+                    "content": "이 잡지도 살래."
+                },
+                {
+                    "type": "script",
+                    "location": "서점",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "싫어."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_29",
+            "prev_id": "01_0817_28",
+            "next_id": "01_0817_30",
+            "characters": [
+                "C004",
+                "C001"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C004와 지혜는 서로의 생활습관이 마음에 들지 않는다.",
+            "unit_motif": "가족 불화",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "content": "개수대에 쌓여있는 그릇들과 음식 찌꺼기와 기름때가 잔뜩 묻은 가스레인지가 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "불만족스럽다",
+                    "content": "C004가 그걸 보고 한숨을 쉰다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "불만족스럽다",
+                    "content": "C004가 세탁기 안을 들여다보면 세탁 안된 빨랫감이 잔뜩 찼다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "너무해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "불만족스럽다",
+                    "content": "C004가 성난 표정으로 서재 문을 확 연다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "무감각함",
+                    "content": "지혜가 일하다가 책상에 엎드려 자고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "불만족스럽다",
+                    "content": "C004가 문을 쾅 닫고 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "무감각함",
+                    "content": "그제야 지혜가 고개를 든다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무감각함",
+                    "content": "또 해요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "불만족스럽다",
+                    "content": "침실 여기저기에 마치 뱀이 허물벗은 것처럼 널려있는 C004의 옷을 지혜가 바라본다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_30",
+            "prev_id": "01_0817_29",
+            "next_id": "01_0817_31",
+            "characters": [
+                "C002",
+                "C003"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C002과 C003은 생활습관으로 트러블을 겪는다.",
+            "unit_motif": "가족 불화",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "단호하다",
+                    "content": "C002이 컵 안을 들여다본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "물때 있어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다루다",
+                    "emotion": "단호하다",
+                    "content": "C002이 컵을 씻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "불만족스럽다",
+                    "content": "C003이 C002의 뒤통수를 노려보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "content": "옷 서랍장을 열자 색깔별로 깔끔하게 정리된 속옷과 양말이 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "다루다",
+                    "emotion": "담담하다",
+                    "content": "C003이 속옷을 꺼내 입는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다루다",
+                    "emotion": "단호하다",
+                    "content": "C002이 그 옆에서 자기 서랍장을 연다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "content": "서랍장 안은 C003의 그것보다 더 정리가 잘 되어 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "다루다",
+                    "emotion": "불만족스럽다",
+                    "content": "유정과 C002 두 사람이 각자 옷을 갈아입는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "다루다",
+                    "emotion": "담담하다",
+                    "content": "C003이 테이프로 카펫을 꼼꼼히 청소한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다루다",
+                    "emotion": "담담하다",
+                    "content": "찍찍이를 감은 막대로 장롱 밑을 휘저어 먼지를 쓸어내는 C002이다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "청소 일이나 하지 그래."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_31",
+            "prev_id": "01_0817_30",
+            "next_id": "01_0817_32",
+            "characters": [
+                "C004",
+                "C002",
+                "C003",
+                "C001"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C004와 C002, C003과 지혜는 결혼생활에 회의감을 느낀다.",
+            "unit_motif": "가족 불화",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "강의실",
+                    "character": [
+                        "C004",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C004와 C002이 빈 강의실에서 담배를 피우며 얘기를 나눈다."
+                },
+                {
+                    "type": "script",
+                    "location": "강의실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "생각 없는 여자야."
+                },
+                {
+                    "type": "script",
+                    "location": "강의실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "지혜 반만 닮으면 좋겠네."
+                },
+                {
+                    "type": "script",
+                    "location": "강의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "에이."
+                },
+                {
+                    "type": "script",
+                    "location": "강의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "걔도 별로야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동실",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C003과 지혜가 마룻바닥에 앉아 얘기한다."
+                },
+                {
+                    "type": "script",
+                    "location": "운동실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "숨 막혀."
+                },
+                {
+                    "type": "script",
+                    "location": "운동실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "나랑 너무 달라."
+                },
+                {
+                    "type": "script",
+                    "location": "운동실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "나도 그래."
+                },
+                {
+                    "type": "script",
+                    "location": "운동실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "불만스러워."
+                },
+                {
+                    "type": "script",
+                    "location": "운동실",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "결혼 왜 했을까."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_32",
+            "prev_id": "01_0817_31",
+            "next_id": "01_0817_33",
+            "characters": [
+                "C003",
+                "C004",
+                "C001",
+                "C002"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "집들이 가 끝나고 C004와 C003은 술에 취해 쓰러지고 지혜와 C002은 함께 집을 치운다.",
+            "unit_motif": "진솔한 대화",
+            "causality": "Facing the greatest fear(심연을 직면함)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "거실",
+                    "content": "손님들이 돌아가고 난 뒤 상위에 수북이 쌓인 그릇들이 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "쓰러지다",
+                    "emotion": "무감각함",
+                    "content": "C003과 C004는 술이 취해 쓰러져 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "피곤하다",
+                    "content": "지혜와 C002은 기가 막혀 앉아 그 꼴을 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다루다",
+                    "emotion": "피곤하다",
+                    "content": "지혜가 한숨을 쉬고 그릇들을 부엌으로 옮긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다루다",
+                    "emotion": "피곤하다",
+                    "content": "C002이 함께 옮긴다."
+                },
+                {
+                    "type": "script",
+                    "location": "거실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "같이 하시죠."
+                },
+                {
+                    "type": "script",
+                    "location": "거실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "당연하죠."
+                },
+                {
+                    "type": "script",
+                    "location": "거실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "유쾌하다",
+                    "content": "지혜가 피식 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "유쾌하다",
+                    "content": "C002이 농담이었음을 알고 따라 웃는다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_33",
+            "prev_id": "01_0817_32",
+            "next_id": "01_0817_34",
+            "characters": [
+                "C002",
+                "C003"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C002과 C003은 집들이 때 있었던 일로 크게 다툰다.",
+            "unit_motif": "가족 불화",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다루다",
+                    "emotion": "담담하다",
+                    "content": "C002이 카펫의 쓰레기를 테이프로 털고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "담담하다",
+                    "content": "소파의 C003이 잠에서 깨어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C003이 C002을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "술 잘 마시네."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "미안하다",
+                    "content": "미안."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C002 망신 시키니 좋냐?"
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "망신?"
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C002 친구랑 춤을 줬잖아."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "기막혀."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "뭐가?"
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "그럴 수도 있지."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "됐어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "화나다",
+                    "content": "C003이 입술을 깨물며 C002을 노려본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "놀 때는 노는 거지."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "그럼 그런 남자랑 놀지."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "말 다 했어?"
+                }
+            ]
+        },
+        {
+            "id": "01_0817_34",
+            "prev_id": "01_0817_33",
+            "next_id": "01_0817_35",
+            "characters": [
+                "C004",
+                "C001"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C004와 지혜도 집들이 때 있었던 일로 크게 다툰다.",
+            "unit_motif": "가족 불화",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "불만족스럽다",
+                    "content": "C004가 침대에 널브러져 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "불만족스럽다",
+                    "content": "지혜가 의자에 앉아 C004를 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "불만족스럽다",
+                    "content": "C004가 잠에서 깨어난다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "물 좀."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "불만족스럽다",
+                    "content": "지혜가 시트를 확 걷는다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "일어나."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "왜 이래."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "나한테 충실해야지."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "뭐?"
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "옛날에 그 여배우랑 잤다며."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "때리다",
+                    "emotion": "화나다",
+                    "content": "C004가 지혜의 뺨을 때린다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "무슨 소리야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "emotion": "화나다",
+                    "content": "지혜가 C004의 뺨을 때린다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "남이랑 비교하지 마."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "널 구하는 게 후회돼."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "C004가 문을 쾅 닫고 나간다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_35",
+            "prev_id": "01_0817_34",
+            "next_id": "01_0817_36",
+            "characters": [
+                "C003",
+                "C004",
+                "C001",
+                "C002"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "상대방에게 실망한 C003은 C004와, C002은 지혜와 마주치게 된다.",
+            "unit_motif": "가족 불화",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "복도",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "잡에서 나오던 C003이 때마침 나오던 C004와 마주친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "복도",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "두 사람이 시선을 어디 둘지 몰라 당황해하다 이윽고 씁쓸한 미소를 교환한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "피곤하다",
+                    "content": "지혜가 초인종 소리에 고개를 든다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "피곤하다",
+                    "content": "왜 나갔냐?"
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C002이에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "놀란 지혜가 문을 열면 C002이 서 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C003 여기 있나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "아니요."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그렇군요."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "들어와요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "당황하다",
+                    "content": "C002이 머뭇거린다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_36",
+            "prev_id": "01_0817_35",
+            "next_id": "01_0817_37",
+            "characters": [
+                "C004",
+                "C003"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C004와 C003은 지혜와 C002의 고지식한 면에 대한 불만을 털어놓는다.",
+            "unit_motif": "진솔한 대화",
+            "causality": "Return(귀환)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "편의점",
+                    "content": "마개가 따진 캔맥주 두 개와 오징어가 테이블 위에 놓여있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편의점",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "마시다",
+                    "emotion": "답답하다",
+                    "content": "C004와 C003이 테이블에 앉아 캔맥주를 마시고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "편의점",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "답답한 여자입니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편의점",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "답답하다",
+                    "content": "C003이 C004를 바라본다."
+                },
+                {
+                    "type": "script",
+                    "location": "편의점",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "지혜는 원래 그런 여자예요."
+                },
+                {
+                    "type": "script",
+                    "location": "편의점",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "그놈도 고지식해요, 이해해요."
+                },
+                {
+                    "type": "script",
+                    "location": "편의점",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "너무 숨 막히니까요."
+                },
+                {
+                    "type": "script",
+                    "location": "편의점",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "둘이 참 다르네요."
+                },
+                {
+                    "type": "script",
+                    "location": "편의점",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "저도요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편의점",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "즐겁다",
+                    "content": "두 사람은 어이가 없어 피식 웃는다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_37",
+            "prev_id": "01_0817_36",
+            "next_id": "01_0817_38",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "지혜와 C002이 상대에 대한 불만을 토로하던 중 C002은 지혜가 자신과 통신을 한 여자라는 것을 깨닫는다.",
+            "unit_motif": "비밀의 발견/발각",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "지혜와 C002 두 사람이 식탁에 마주 앉아 말없이 커피를 마신다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "험담하다",
+                    "emotion": "화나다",
+                    "content": "가벼운 사람이에요."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "험담하다",
+                    "emotion": "화나다",
+                    "content": "C003이도요."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "결혼은 현실이네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "놀라다",
+                    "content": "C002의 표정이 점차 묘하게 변한다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "남자한테 결혼은 불리하죠."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "여자가 더 그래요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "놀라다",
+                    "content": "C002이 그제야 모든 사실을 깨닫는다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "C003이는 아닐 거예요."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "부럽다",
+                    "content": "운 좋네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C002이 지혜를 정면으로 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "저야말로 요."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_38",
+            "prev_id": "01_0817_37",
+            "next_id": "01_0817_39",
+            "characters": [
+                "C004",
+                "C002",
+                "C001",
+                "C003"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "두 커플은 화해를 하기 위해 다시 모이지만 서로의 갈등만 확인한다.",
+            "unit_motif": "진솔한 대화",
+            "causality": "Return(귀환)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C004",
+                        "C002",
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "마시다",
+                    "emotion": "즐겁다",
+                    "content": "C004, C002, 지혜, C003이 모여 술을 마시고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "준다",
+                    "emotion": "즐겁다",
+                    "content": "C004가 건배를 제안한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감탄하다",
+                    "content": "C004 멋지다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "광고 기획자니까요."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "고마워요."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불안하다",
+                    "content": "많이 먹지 마."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "즐겁다",
+                    "content": "지혜가 음식을 먹는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감탄하다",
+                    "content": "C002 음식 잘한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "좀 배워."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불쾌하다",
+                    "content": "된장찌개 해주면 되잖아."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "황당하다",
+                    "content": "그래라."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "황당하다",
+                    "content": "어이없어."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_39",
+            "prev_id": "01_0817_38",
+            "next_id": "01_0817_40",
+            "characters": [
+                "C001",
+                "C002",
+                "C003",
+                "C004"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "서로 친구의 파트너인 지혜는 C002에게, C003은 C004에게 끌린다.",
+            "unit_motif": "바람/불륜",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "도서관",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "놀라다",
+                    "content": "지혜가 C002을 찾다가 보이지 않자 창가 쪽 빈자리에 앉는다."
+                },
+                {
+                    "type": "script",
+                    "location": "도서관",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "책 찾으러 왔나?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "도서관",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "지혜가 깜짝 놀라 돌아본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도서관",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "설레다",
+                    "content": "C002이 싱그런 미소를 지으며 서있다."
+                },
+                {
+                    "type": "script",
+                    "location": "도서관",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "내 책인데."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도서관",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "설레다",
+                    "content": "C002이 담담한 미소를 짓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도서관",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "설레다",
+                    "content": "지혜가 감격한다."
+                },
+                {
+                    "type": "script",
+                    "location": "수영장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "잠수 시합할래요?"
+                },
+                {
+                    "type": "script",
+                    "location": "수영장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "그래."
+                },
+                {
+                    "type": "script",
+                    "location": "수영장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "잠수는 내가 이기지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수영장",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "다루다",
+                    "emotion": "유쾌하다",
+                    "content": "C003과 C004가 물밑으로 동시에 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수영장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "돕다",
+                    "emotion": "유쾌하다",
+                    "content": "C004가 물속에서 온갖 몸짓으로 C003을 웃기려 애쓴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수영장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "유쾌하다",
+                    "content": "C004의 모습에도 C003은 웃음을 참으로 애쓴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수영장",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "설레다",
+                    "content": "어느 순간 C003과 C004 두 사람은 눈이 마주친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수영장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "설레다",
+                    "content": "격정을 이기지 못한 C004가 C003을 끌어당겨 키스한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_40",
+            "prev_id": "01_0817_39",
+            "next_id": "01_0817_41",
+            "characters": [
+                "C001",
+                "C002",
+                "C004",
+                "C003"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "지혜와 C002, C003과 C004는 서로에게 끌리는 마음으로 고민한다.",
+            "unit_motif": "바람/불륜",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "망설이다",
+                    "content": "지혜가 빠르게 앞서 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "망설이다",
+                    "content": "C002이 그 뒤를 쫓는다."
+                },
+                {
+                    "type": "script",
+                    "location": "길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "C001!"
+                },
+                {
+                    "type": "script",
+                    "location": "길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "부끄럽다",
+                    "content": "놔."
+                },
+                {
+                    "type": "script",
+                    "location": "길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "보면 어때요."
+                },
+                {
+                    "type": "script",
+                    "location": "길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "망설이다",
+                    "content": "그만하죠."
+                },
+                {
+                    "type": "script",
+                    "location": "길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "뭘 그만해요."
+                },
+                {
+                    "type": "script",
+                    "location": "길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "망설이다",
+                    "content": "우리 이러면 안 됩니다."
+                },
+                {
+                    "type": "script",
+                    "location": "길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "망설이다",
+                    "content": "나도 혼란스럽습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "속상하다",
+                    "content": "삼류도 아니고."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "속상하다",
+                    "content": "지혜와 C002이 풀 길 없는 답답함에 어찌할 줄 몰라 서 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "답답하다",
+                    "content": "C004가 들어오자마자 문을 걸어 잠그고 C003을 벽으로 몰아붙인다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "서운하다",
+                    "content": "다른 놈과 그러면 안 돼."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "서럽다",
+                    "content": "C004가 왜 화를 내나요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "열광하다",
+                    "content": "C004가 거칠게 C003을 끌어안아 덮친다."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "열광하다",
+                    "content": "우리 사랑하잖아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "열광하다",
+                    "content": "C003이 C004의 목을 휘감으며 키스한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0817_41",
+            "prev_id": "01_0817_40",
+            "characters": [
+                "아줌마",
+                "할머니",
+                "C001",
+                "C002",
+                "C004",
+                "C003"
+            ],
+            "stage": "Resurrection",
+            "storyline": "지혜는 C002과 C004는 C003과 다시 결혼하지만 그들은 이번 선택은 정말 정답인지 알지 못한다.",
+            "unit_motif": "공적인 입장표명",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "아줌마"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "지혜의 집에서 문이 열리면 아이를 업은 아줌마가 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "할머니"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C003의 집에서 문이 열리면 할머니가 나온다."
+                },
+                {
+                    "type": "script",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "우리는 싸운다."
+                },
+                {
+                    "type": "script",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "도덕 앞에서."
+                },
+                {
+                    "type": "script",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "대신 많이 잃었다."
+                },
+                {
+                    "type": "script",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그런데 옳았을까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "지혜와 C002 집",
+                    "content": "지혜와 C002의 집에는 책장에 나란히 똑같은 책이 두 권 꽂혀있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004와 C003 집",
+                    "content": "C004와 C003의 집에는 장식장에 나란히 두 개의 야구공이 놓여있다."
+                },
+                {
+                    "type": "script",
+                    "location": "C004와 C003 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "이게 뭐야, 더럽게."
+                },
+                {
+                    "type": "script",
+                    "location": "C004와 C003 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "그럴 수도 있지."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜와 C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "책상 좀 치워."
+                },
+                {
+                    "type": "script",
+                    "location": "지혜와 C002 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "그럼 C004이 치워."
+                }
+            ]
+        }
+    ]
+}
