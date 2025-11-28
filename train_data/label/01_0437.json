@@ -1,0 +1,5145 @@
+{
+    "id": "01_0437",
+    "type": "movie",
+    "title": "음모를 밝혀라",
+    "genre": [
+        "액션"
+    ],
+    "year": 2013,
+    "theme": "추적",
+    "concept": "베를린에 숨겨진 국제적 음모를 추적한다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "누명",
+    "main_character": "아픈 기억이 있음",
+    "conflict": "각자의 목적에 누명과 오해에 휘말려 서로를 추격한다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005"
+    ],
+    "units": [
+        {
+            "id": "01_0437_01",
+            "next_id": "01_0437_02",
+            "characters": [
+                "C004",
+                "E002",
+                "여비서"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C004은 나라1 테러리스트 E002과 조건을 협상하고 있다.",
+            "unit_motif": "현실(상황) 직면",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 벼룩시장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "비장하다",
+                    "content": "C004이 나라1 상인에게 음식 하나를 주문한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 벼룩시장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "비장하다",
+                    "content": "C004이 음식 옆의 종이에서 호텔 숫자를 확인한다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "단호하다",
+                    "content": "이번 테스트에 실력 있는 사람이 참여하지 않았어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "만나다",
+                    "emotion": "담담하다",
+                    "content": "C004과 E002이 호텔 방 안에서 마주 앉아 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "단호하다",
+                    "content": "미사일이 나가는 거리가 핵심이야."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "단호하다",
+                    "content": "미사일1을 먼저 구매해야 다른 미사일도 팔 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "당황하다",
+                    "content": "C004이 전화기 소리에 당황하며 전화를 받는다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "당황하다",
+                    "content": "다음에 연락드리겠습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나라3 대사관",
+                    "character": [
+                        "여비서"
+                    ],
+                    "act": "듣다",
+                    "emotion": "무감각함",
+                    "content": "기밀 통신실에서 나라3 대사의 여비서가 종성의 거래 내용을 전화기로 듣고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "담담하다",
+                    "content": "나와의 협상은 불가능해."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_02",
+            "prev_id": "01_0437_01",
+            "next_id": "01_0437_03",
+            "characters": [
+                "보안요원",
+                "C004",
+                "E003",
+                "E004",
+                "E002"
+            ],
+            "stage": "Main Character",
+            "storyline": "C004이 협상하는 사이 비상계단에선 거래가 이뤄지고 있다.",
+            "unit_motif": "현실(상황) 직면",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 지하 주차장",
+                    "character": [
+                        "보안요원"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "호텔 보안요원이 비상계단을 통해 주차장으로 나온다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 지하 주차장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "단호하다",
+                    "content": "아까 말한 사항에서 바뀌는 건 하나도 없을 것이오."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 지하 주차장",
+                    "character": [
+                        "보안요원"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "담담하다",
+                    "content": "보안요원이 조명이 깜박인 차량을 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 지하 주차장",
+                    "character": [
+                        "보안요원"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "보안요원이 CCTV 밖 사각지대로 사라진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 지하 주차장",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "준다",
+                    "emotion": "담담하다",
+                    "content": "E003이 보안요원에게 현찰 뭉치를 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 지하 주차장",
+                    "character": [
+                        "보안요원"
+                    ],
+                    "act": "준다",
+                    "emotion": "담담하다",
+                    "content": "보안요원이 E003에게 카드 열쇠를 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "긴장되다",
+                    "content": "C004은 계약서를 사이에 두고 E002과 신경전을 벌인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "긴장되다",
+                    "content": "E004는 C004과 E002 사이에 시계를 보며 초조한 기색을 드러낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "긴장되다",
+                    "content": "그럼 미사일 거리 실험을 안 할 테니 다른 무기를 더 줘."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 화장실로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "E002은 종성이 화장실로 들어가자 화를 낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "난감하다",
+                    "content": "양쪽 다 지금 난감한 상태야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "긴장되다",
+                    "content": "종성이 앉아 있던 테이블에 그의 휴대폰이 켜진 채 놓여 있다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_03",
+            "prev_id": "01_0437_02",
+            "next_id": "01_0437_04",
+            "characters": [
+                "C004",
+                "E004",
+                "C002",
+                "E002",
+                "보안요원"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C002이 등장해 보안요원에게서 정보를 얻는다.",
+            "unit_motif": "정보 획득",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방, 화장실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "듣다",
+                    "emotion": "긴장되다",
+                    "content": "종성이 휴대폰으로 바깥 상황을 듣고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "E004는 E002에게 계약을 진행하라고 설득한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 비상계단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "C002은 보안요원을 쓰러뜨리고 알약을 먹인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 비상계단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "C002은 보안요원 이마에 총구를 들이민다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 비상계단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "어서 먹어."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 비상계단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "가장 중요한 기밀은 넘기지 않으면 우리와의 거래는 끝이야."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 비상계단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "어느 나라에서 문제가 되는 거야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 화장실에서 나와 자리에 앉는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "E002은 물러설 수 없다는 눈빛으로 종성을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 시계를 슬쩍 본 뒤 E002과 E004를 번갈아 쳐다본다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 비상계단",
+                    "character": [
+                        "보안요원"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "나라2잖아!"
+                }
+            ]
+        },
+        {
+            "id": "01_0437_04",
+            "prev_id": "01_0437_03",
+            "next_id": "01_0437_05",
+            "characters": [
+                "C002",
+                "보안요원",
+                "E004",
+                "E002",
+                "C004"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C004은 E002과 계약에 대해 줄다리기하고 있다.",
+            "unit_motif": "대련/비무",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 비상계단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "불만족스럽다",
+                    "content": "C002은 보안요원의 주머니에서 현찰 뭉치와 휴대폰을 꺼낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 비상계단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "의심스럽다",
+                    "content": "어디에서 온 애야?"
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 비상계단",
+                    "character": [
+                        "보안요원"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "정말 나라2야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 비상계단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C002은 보안요원에게 타깃을 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 비상계단",
+                    "character": [
+                        "보안요원"
+                    ],
+                    "emotion": "혼란스럽다",
+                    "content": "여러 곳에서 달려들었군."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 비상계단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C002은 계단을 뛰어오르며 장소를 벗어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "마시다",
+                    "emotion": "초조하다",
+                    "content": "E004가 초조한 표정으로 위스키를 들이킨다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "긴장되다",
+                    "content": "계약부터 하고 돈을 줄게."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "불만족스럽다",
+                    "content": "돈 주면 계약한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 엘리베이터 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "불만족스럽다",
+                    "content": "세황은 엘리베이터를 놓치고 비상계단으로 향한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_05",
+            "prev_id": "01_0437_04",
+            "next_id": "01_0437_06",
+            "characters": [
+                "E002",
+                "C004",
+                "E004",
+                "E003",
+                "C002",
+                "요원들",
+                "보안요원"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "종성과 E002은 대결하게 되고 종성은 호텔을 빠져나간다.",
+            "unit_motif": "대련/비무",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E002"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "종성의 눈치를 살피다 결국 이체 버튼을 누른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "의심스럽다",
+                    "content": "종성은 문 열리는 소리에 계약서 사인을 멈추고 E002을 노려본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "혼란스럽다",
+                    "content": "종성과 E002은 서로 총을 겨눈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E004"
+                    ],
+                    "emotion": "의심스럽다",
+                    "content": "E004가 재빨리 노트북 자판을 두드려 계좌이체를 중단시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "혼란스럽다",
+                    "content": "종성과 E002이 동시에 각자의 계약서를 챙기며 의자 뒤로 몸을 숨긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "E003과 E011 요원 둘이 치고 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "부수다",
+                    "emotion": "혼란스럽다",
+                    "content": "E004의 노트북 내부가 터지며 파괴된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "혼란스럽다",
+                    "content": "종성과 E002이 E011 요원들에게 총을 쏜다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "담담하다",
+                    "content": "곧 우리 쪽 사람들이 올 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "혼란스럽다",
+                    "content": "종성은 E003의 말에 갈등한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "귀찮다",
+                    "content": "세황이 호텔 방을 향해 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "심란하다",
+                    "content": "세황은 방문이 열려 있는 것을 보고 총을 꺼내든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "요원들"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "emotion": "담담하다",
+                    "content": "E003은 E004의 노트북을 챙기고 나머지 요원은 E004와 E002을 체포한다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "나라3에서 온 사람은 어떻게 됐어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 방",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "방해하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "E003이 자신은 모르는 일이라는 듯 약 올리는 행동을 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 보안실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C002이 보안실에 전화해 종성의 위치를 알려달라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 보안실",
+                    "character": [
+                        "보안요원"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "당황하다",
+                    "content": "보안요원은 동료의 눈치를 보며 머뭇거린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 보안실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "짜증나다",
+                    "content": "C002은 보안요원의 비리를 폭로하며 협박한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_06",
+            "prev_id": "01_0437_05",
+            "next_id": "01_0437_07",
+            "characters": [
+                "C004",
+                "C002",
+                "C001"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C004은 작전을 수행하지 못한 것에 C001에게 꾸짖음 받는다.",
+            "unit_motif": "덕담/응원",
+            "causality": "Showdown(결전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 지하 물류주차장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "종성이 물류 주차장 쪽으로 빠져나와 주위를 살피며 밖을 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 지하 물류주차장",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "불안하다",
+                    "content": "종성의 관자놀이에 총구를 겨눈다."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 지하 물류주차장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "긴장되다",
+                    "content": "일 크게 벌이지 말자."
+                },
+                {
+                    "type": "script",
+                    "location": "특급호텔 지하 물류주차장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "긴장되다",
+                    "content": "총구를 여기에 두는 게 맞나?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 지하 물류주차장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "긴장되다",
+                    "content": "C002은 종성에게 거래 물품과 거래은행 계좌만 확인해 달라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 지하 물류주차장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 고개를 돌려 세황의 총구에서 벗어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 지하 물류주차장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "세황은 본능적으로 총을 쏜다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 지하 물류주차장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다치다",
+                    "emotion": "긴장되다",
+                    "content": "세황의 총이 종성의 귓불을 스친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 지하 물류주차장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 세황과 몸싸움을 벌인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "특급호텔 지하 물류주차장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "긴장되다",
+                    "content": "종성이 자신의 권총을 거꾸로 쥐고 세황의 머리통을 후려친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "종성은 집으로 돌아와 상처를 치료한다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "불쾌하다",
+                    "content": "어떻게 생긴 애인지 봤어?"
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "담담하다",
+                    "content": "봤습니다만, 그 자리에서 그 사람을 처리해버리면 우리는 더 큰 난관에 빠집니다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_07",
+            "prev_id": "01_0437_06",
+            "next_id": "01_0437_08",
+            "characters": [
+                "E005",
+                "C002",
+                "외교부 조사관",
+                "C001",
+                "C004",
+                "C005"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001는 C005가 베를린으로 오고 있음을 전한다.",
+            "unit_motif": "상황 설명",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "E005"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "불만족스럽다",
+                    "content": "E005는 세황을 조사하러 왔다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "체념하다",
+                    "emotion": "억울하다",
+                    "content": "세황은 조사실에서 얼음 봉지로 머리 상처를 식히고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "E005"
+                    ],
+                    "emotion": "불만족스럽다",
+                    "content": "E005와 외교부 조사관이 세황을 마주 앉혀놓고 조사를 진행 중이다."
+                },
+                {
+                    "type": "script",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "외교부 조사관"
+                    ],
+                    "act": "말다툼하다",
+                    "emotion": "불만족스럽다",
+                    "content": "총을 쐈다는 게 걸립니다. 다른 나라에서 알게 되면 일이 커져요."
+                },
+                {
+                    "type": "script",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "E005"
+                    ],
+                    "act": "말다툼하다",
+                    "emotion": "불쾌하다",
+                    "content": "미리 확인을 받지도 않고 왜 총을 겨눈 겁니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말다툼하다",
+                    "emotion": "답답하다",
+                    "content": "세황은 외교부 조사관과 정보를 가져오지 못한 일에 대해 입씨름을 벌인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C001는 C004의 작전에서 한국이 치고 들어온 것을 의심스럽게 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "C004은 나라3 측에서 정보를 흘린 것은 아닌가 의심한다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "C005가 곧 도착한다고 연락이 왔어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 행 기차",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C005는 기차 칸을 옮기며 자리를 찾아간다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "C005가 온다는 건 C004 너의 행동을 모두 감시하겠다는 의미야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "C001는 우리가 감시 대상이 됐다고 C004에게 전한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_08",
+            "prev_id": "01_0437_07",
+            "next_id": "01_0437_09",
+            "characters": [
+                "백인 청년",
+                "C005",
+                "E005",
+                "C002"
+            ],
+            "stage": "1st Accident",
+            "storyline": "명수의 무자비함이 드러나고, 세황은 나라3놈들을 잡아야 한다며 민호를 설득한다.",
+            "unit_motif": "상황 파악",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 행 기차",
+                    "character": [
+                        "백인 청년"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "뻔뻔하다",
+                    "content": "백인 청년은 명수 쪽으로 가면서 자기 자리를 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 행 기차",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "황당하다",
+                    "content": "명수는 백인 청년을 쳐다보고 배낭을 벗는데 배낭 바닥이 찢어져 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차 화장실",
+                    "character": [
+                        "백인 청년"
+                    ],
+                    "act": "훔치다",
+                    "emotion": "긴장되다",
+                    "content": "백인 청년은 명수 가방에서 소매치기한 내용물을 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차 화장실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "비장하다",
+                    "content": "명수는 화장실 앞에서 청년을 만나 독침을 쏜다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차 화장실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "비장하다",
+                    "content": "명수는 침착하게 자신의 돈과 여권을 챙긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차 화장실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "비장하다",
+                    "content": "명수가 백인 청년의 죽어가는 모습을 무심하게 바라보며 그의 현찰과 소지품까지 챙긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 오래된 한국 식당기차",
+                    "character": [
+                        "E005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "난감하다",
+                    "content": "E005가 식당에서 세황을 만난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 오래된 한국 식당기차",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "세황은 민호가 송환 명령서를 내놓자 상황을 설명한다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 오래된 한국 식당기차",
+                    "character": [
+                        "E005"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "답답하다",
+                    "content": "여기에서 계속 이러시지 말고 나라4에서 일하시면 되겠네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 오래된 한국 식당기차",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불만족스럽다",
+                    "content": "세황은 나라3 놈들은 보자마자 바로잡아야 한다며 민호의 말을 듣지 않는다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_09",
+            "prev_id": "01_0437_08",
+            "next_id": "01_0437_10",
+            "characters": [
+                "C001",
+                "C002",
+                "레스토랑 직원",
+                "E006",
+                "C004",
+                "C003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001는 독일과의 만남에서 C003에게 접대하라고 명령한다.",
+            "unit_motif": "도움을 줌/받음",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 고급 레스토랑",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C001는 종성의 아내 C003와 함께 식당으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 고급 레스토랑",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "emotion": "긴장되다",
+                    "content": "C001와 C003는 독일 관료 E006를 만나다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 고급 레스토랑",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "emotion": "긴장되다",
+                    "content": "세황은 이전에 레스토랑 직원에게 시간과 장소가 적힌 쪽지를 건네받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 고급 레스토랑",
+                    "character": [
+                        "레스토랑 직원"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "이전에 세황에게 쪽지를 건네준 레스토랑 직원이 C001 일행에게 서빙한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 고급 레스토랑",
+                    "character": [
+                        "E006"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "불편하다",
+                    "content": "E006는 C003의 몸매를 살피며 나라3에게 불리한 얘기를 꺼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 고급 레스토랑",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C001는 E006의 말에 착오라며 불평한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 고급 레스토랑",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C001는 C003에게 E006에게 접대하라고 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "담담하다",
+                    "content": "C004이 딱딱하게 굳은 빵을 우걱우걱 씹으며 보드카를 들이킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 호텔 바",
+                    "character": [
+                        "E006"
+                    ],
+                    "act": "꼬시다",
+                    "emotion": "자신감 있다",
+                    "content": "E006는 술에 취해 정희에게 수작을 부린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 호텔 바",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "무감각함",
+                    "content": "정희가 E006를 빤히 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 호텔 바",
+                    "character": [
+                        "E006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "E006가 호텔 방 열쇠를 정희 앞에 두고 먼저 일어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 호텔 바",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "역겹다",
+                    "content": "정희가 차가운 표정으로 열쇠를 바라본다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_10",
+            "prev_id": "01_0437_09",
+            "next_id": "01_0437_11",
+            "characters": [
+                "C002",
+                "레스토랑 직원",
+                "C005",
+                "C004",
+                "C003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "세황과 만났던 레스토랑 직원 명수에게 습격을 당한다.",
+            "unit_motif": "실패",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 도심 전차",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "emotion": "담담하다",
+                    "content": "세황은 전차에서 레스토랑 직원을 만난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 도심 전차",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "듣다",
+                    "emotion": "담담하다",
+                    "content": "세황은 직원이 건넨 녹음기 내용을 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 도심 전차",
+                    "character": [
+                        "레스토랑 직원"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "기대되다",
+                    "content": "직원은 세황의 신문 사이에 끼워둔 현찰 뭉치를 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 도심 전차",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "명수는 세황이 전차에서 내리는 모습을 지켜본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 아파트",
+                    "character": [
+                        "레스토랑 직원"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "레스토랑 직원이 현관문을 열고 집안으로 들어선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 아파트",
+                    "character": [
+                        "C005"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "명수가 직원의 집 현관문을 잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 아파트",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "비장하다",
+                    "content": "명수는 직원의 죽음을 자살로 위장한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "초조하다",
+                    "content": "종성은 째깍거리는 시계를 보며 침대에 누워 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "피곤하다",
+                    "content": "C003가 문을 열고 집으로 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "피곤하다",
+                    "content": "정희가 종성이 잠들어 있는 것을 확인하고 조용히 방문을 닫는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "비참하다",
+                    "content": "정희가 샤워를 하다 멈추고 쏟아지는 물을 맞는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "비참하다",
+                    "content": "정희는 C001가 접대하라고 한 E006와의 대화를 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "정희가 종성의 상처를 치료한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "고맙다",
+                    "content": "종성은 자는 척하며 정희의 행동을 엿본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "안심/안도하다",
+                    "content": "정희가 등 돌린 종성을 뒤에서 꼭 끌어안는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "안심/안도하다",
+                    "content": "정희의 체온이 느껴지자 종성이 조용히 눈을 감는다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_11",
+            "prev_id": "01_0437_10",
+            "next_id": "01_0437_12",
+            "characters": [
+                "C002",
+                "담당 경찰",
+                "E007",
+                "C005",
+                "C001",
+                "레스토랑 직원"
+            ],
+            "stage": "1st Accident",
+            "storyline": "세황은 나라3 놈을 잡으려고 하고, 명수는 C003를 의심한다.",
+            "unit_motif": "의심",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "시체 안치실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "세황은 담당 경찰과 시체 안치실을 향해 간다."
+                },
+                {
+                    "type": "script",
+                    "location": "시체 안치실",
+                    "character": [
+                        "담당 경찰"
+                    ],
+                    "emotion": "무감각함",
+                    "content": "누구인지 확인됐습니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "시체 안치실",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "안타깝다",
+                    "content": "세황은 레스토랑 직원의 시체를 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시체 안치실",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "괘씸하다",
+                    "content": "세황이 손목시계 카메라로 시체 상처 부위를 찍는다."
+                },
+                {
+                    "type": "script",
+                    "location": "시체 안치실",
+                    "character": [
+                        "담당 경찰"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무감각함",
+                    "content": "직접 목숨을 끊었습니다. 평소에 정신적으로 어려움을 겪고 있었고 갚을 돈도 있군요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 셀프 세탁소",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "E007가 세탁물을 들고 차에서 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 셀프 세탁소",
+                    "character": [
+                        "E007"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "E007는 세황 옆에서 세탁기에 세탁물을 넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 셀프 세탁소",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "세황은 E007에게 레스토랑 직원의 촬영한 시신을 보여준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 셀프 세탁소",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "의심스럽다",
+                    "content": "세황은 과거를 들먹이며 E007에게 나라3창구를 열어달라고 부탁한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 대성당",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "대성당에 변장한 C005가 C001에게 말을 건다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 대성당",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "생각보다 늦게 왔구먼."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 대성당",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "명수는 학수에게 레스토랑 영상을 보여주며 당에서 의심하고 있다고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 대성당",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "준비가 되건 안 되건 이틀 뒤에 찾아갑니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 대성당",
+                    "character": [
+                        "레스토랑 직원"
+                    ],
+                    "act": "말하다",
+                    "emotion": "초조하다",
+                    "content": "동영상 속 직원은 C003가 정보를 팔아넘겼다고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_12",
+            "prev_id": "01_0437_11",
+            "next_id": "01_0437_13",
+            "characters": [
+                "C004",
+                "C001",
+                "여비서",
+                "C003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001는 C003를 의심하고 종성은 혼란스럽다.",
+            "unit_motif": "의심",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "C004이 노트북으로 레스토랑 직원의 증언 내용과 C003의 사진을 보고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "의심 가는 거 없었어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "혼란스럽다",
+                    "content": "종성이 감정을 숨기며 생각에 잠긴다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "아직은 조용합니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "C001는 C003를 의심한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "혼란스럽다",
+                    "content": "나가는 학수 뒤로 홀로 남겨진 종성은 착잡하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 나라3 대사관 사택",
+                    "character": [
+                        "여비서"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "여비서는 학수에게 뒤척이지 말고 자라고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 나라3 대사관 사택",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "화나다",
+                    "content": "왜 이렇게 잔소리야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 나라3 대사관 사택",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "화나다",
+                    "content": "C001는 여비서를 방에서 내쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "혼란스럽다",
+                    "content": "종성이 문 앞에서 침대에 누워 자고 있는 정희를 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "정희는 침대에 누워서 눈을 뜨고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "의심스럽다",
+                    "content": "종성은 정희에게 요즘 일은 어떤지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "별다를 거 없어요. 그건 왜 궁금한 건가요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "의심스럽다",
+                    "content": "종성은 정희의 물음에 답하지 않고 묵묵히 밥만 먹는다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_13",
+            "prev_id": "01_0437_12",
+            "next_id": "01_0437_14",
+            "characters": [
+                "C003",
+                "C004",
+                "C002",
+                "보안요원",
+                "E007"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "정희는 일상을 보내고 종성은 정희는 감시한다.",
+            "unit_motif": "제보/신고/고발",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 나라3 대사관",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "무감각함",
+                    "content": "대사관 안에서 C003가 일상적인 사무업무를 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기계실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "의심스럽다",
+                    "content": "종성은 감시 카메라 너머로 정희를 지켜본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 보안요원의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "심란하다",
+                    "content": "세황이 보안요원의 집으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 보안요원의 집",
+                    "character": [
+                        "보안요원"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "괴롭다",
+                    "content": "보안요원은 세황을 향해 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 보안요원의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "짜증나다",
+                    "content": "세황은 보안요원의 공격을 피하며 대항한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 보안요원의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "긴장되다",
+                    "content": "세황은 보안요원에게 죽고 싶지 않으면 E011와 전화 연결하라고 요구한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 보안요원의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "울다",
+                    "emotion": "긴장되다",
+                    "content": "세황의 전화벨이 울린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "포츠담 광장",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "E007는 세황에게 베를린 공관에 있는 나라3 사람이 망명 요청을 해온 사실을 전한다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 보안요원의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "나라5 망명 신청을 했어?"
+                },
+                {
+                    "type": "script",
+                    "location": "포츠담 광장",
+                    "character": [
+                        "E007"
+                    ],
+                    "emotion": "기대되다",
+                    "content": "아니. 다른 나라로 가겠다고 했어."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 보안요원의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "정보부에서는 뭐라고 해?"
+                }
+            ]
+        },
+        {
+            "id": "01_0437_14",
+            "prev_id": "01_0437_13",
+            "next_id": "01_0437_15",
+            "characters": [
+                "C003",
+                "C004",
+                "E007",
+                "C002",
+                "동양인 남자",
+                "C001",
+                "여비서"
+            ],
+            "stage": "1st Accident",
+            "storyline": "종성은 정희를 뒤쫓아 다닌다.",
+            "unit_motif": "추적/수색",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 나라3 대사관 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무감각함",
+                    "content": "C003가 나라3 대사관 건물에서 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 나라3 대사관 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "의심스럽다",
+                    "content": "종성이 뒤따라 나와 정희를 쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "포츠담 광장",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "E007는 C003의 정치 망명에 대해 이야기한다."
+                },
+                {
+                    "type": "script",
+                    "location": "보안요원의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "언제 만나기로 했어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지하철 역, 지하철",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무감각함",
+                    "content": "정희가 자동판매기에서 지하철 표를 산다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 나라3 대사관 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "의심스럽다",
+                    "content": "종성은 정희를 놓치자 곧바로 전화를 건다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지하철 역, 지하철",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "정희는 종성의 전화에 의회 도서관에 간다고 하고 다른 곳으로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지하철 역, 지하철",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "의심스럽다",
+                    "content": "정희의 뒤를 계속 쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지하철 역, 지하철",
+                    "character": [
+                        "동양인 남자"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "의심스럽다",
+                    "content": "동양인 남자는 비밀스럽게 정희와 종성을 쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지하철 역, 지하철",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "의심스럽다",
+                    "content": "종성은 여비서에게 전화로 정희의 행선지를 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지하철 역, 지하철",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "판단하다",
+                    "emotion": "의심스럽다",
+                    "content": "종성은 정희가 내리는 역에 대사관들이 있다는 것을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나라3 대사관",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C001가 방에서 외투를 입고 재빨리 밖으로 나간다."
+                },
+                {
+                    "type": "script",
+                    "location": "나라3 대사관",
+                    "character": [
+                        "여비서"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "의심스럽다",
+                    "content": "어디 가세요? 오늘 외부 일정 없으신 거 아닙니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "나라3 대사관",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "대답하지 않고 싸늘하게 나간다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_15",
+            "prev_id": "01_0437_14",
+            "next_id": "01_0437_16",
+            "characters": [
+                "C004",
+                "C003",
+                "동양인 남자",
+                "C005"
+            ],
+            "stage": "1st Accident",
+            "storyline": "종성을 정희를 의심하는데, 명수가 망명 신청한 사람이 C001라는 사실을 전한다.",
+            "unit_motif": "의심",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 지하철",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "혼란스럽다",
+                    "content": "종성은 동양인 남자를 따돌리고 정희를 계속 뒤쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지하철",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "정희는 문이 열리자 역에 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지하철",
+                    "character": [
+                        "동양인 남자"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "emotion": "난감하다",
+                    "content": "동양인 남자도 내리려는데, 검표원들이 동양인 남자를 잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지하철",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "비장하다",
+                    "content": "종성은 잡힌 동양인 남자를 보며 시선을 교환한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지하철 브란덴부르크 역 출구",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "비장하다",
+                    "content": "정희가 출구에 이르자 주변을 살핀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지하철 브란덴부르크 역 출구",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "의심스럽다",
+                    "content": "종성은 떨어뜨린 열쇠와 동전을 주우며 정희의 시선을 피한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지하철 브란덴부르크 역 출구",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "의심스럽다",
+                    "content": "정희가 이동하자 종성이 그녀 뒤를 다시 추적한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "의심스럽다",
+                    "content": "종성은 집안을 모두 뒤집는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "의심스럽다",
+                    "content": "종성은 미 대사관 근처에서 자신이 찍은 동영상을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "의심스럽다",
+                    "content": "종성은 입 모양을 따라 정희의 영어 대화를 메모한다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "언제 만나는 겁니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "의심스럽다",
+                    "content": "명수는 종성의 집으로 들어온다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "망명을 신청한 사람이 있다고 합니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 카메라를 뒤로 숨겨 칩을 뺀다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "C001라는 사람이에요."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_16",
+            "prev_id": "01_0437_15",
+            "next_id": "01_0437_17",
+            "characters": [
+                "여비서",
+                "C001",
+                "E007"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001는 휴대폰으로 비밀리에 접선 내용을 확인한다.",
+            "unit_motif": "상황 파악",
+            "causality": "Avoidance(회피/거부)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 방",
+                    "character": [
+                        "여비서"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "의심스럽다",
+                    "content": "여비서는 C001 방으로 들어가 텅 빈 금고를 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C001는 가방을 들고 대사관을 빠져나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동베를린 카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "C001는 계산서 휴대폰을 주머니에 넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동베를린 카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C001는 카페에서 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동베를린 카페",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "C001 뒤로 E007가 앉아서 지켜본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지상철 역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C001는 휴대폰을 켜며 지상철 역을 향해 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지상철 역",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "E007는 만날 곳과 장소를 전달한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지상철 역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "emotion": "비장하다",
+                    "content": "C001가 휴대폰 내용을 확인하자 휴대폰이 터진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지상철 역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C001는 휴대폰을 쓰레기통에 버리고 지하철에 오른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 지상철 역",
+                    "character": [
+                        "여비서"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "비장하다",
+                    "content": "여비서는 쓰레기통에서 휴대폰을 꺼내 칩을 빼낸다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_17",
+            "prev_id": "01_0437_16",
+            "next_id": "01_0437_18",
+            "characters": [
+                "여비서",
+                "C005",
+                "C004",
+                "E007",
+                "C002",
+                "E005",
+                "C001"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001를 서로 잡으려는 사람들 속에서 종성이 데리고 사라진다.",
+            "unit_motif": "도망/도피/잠적",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "여비서 통신실",
+                    "character": [
+                        "여비서"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "비장하다",
+                    "content": "여비서가 휴대폰 칩을 복구하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여비서 통신실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "비장하다",
+                    "content": "명수는 여비서 옆에 서서 결과를 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "준다",
+                    "emotion": "비장하다",
+                    "content": "명수는 종성에게 접선 장소와 시간이 든 MP3를 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 도로, 홀로코스트 메모리얼 가는 길",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "혼란스럽다",
+                    "content": "종성의 차가 질주하다 사고 날 뻔한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "E007는 여자 요원과 함께 광장으로 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "비장하다",
+                    "content": "E007는 세황에게 어디쯤인지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "비장하다",
+                    "content": "목적지 근처에 있어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "비장하다",
+                    "content": "세황은 E005와 기관원임이 표시 나는 팀원들을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "E005"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "민호는 세황에게 다가와 무전기를 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "불만족스럽다",
+                    "content": "세황은 팀원들이 티가 나 마음에 들지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "E007는 여자 동료와 함께 와 E005와 악수한다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "이곳에서 만나자는 이유가 뭐야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "비장하다",
+                    "content": "E007는 건너편이 나라5 대사관임을 알린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "광장 저편으로 C001가 모습을 드러낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "데려가다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 C001를 납치해 데려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "세황은 쓰러진 요원을 발견하고 학수와 종성을 뒤쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "E007"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "E007는 저격수의 총에 맞아 쓰러지고 세황은 혼란스럽다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "C005"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "C005는 E007의 머리로 정확히 총을 쏘고 사라진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 홀로코스트 메모리얼 광장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "데려가다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 혼란을 틈타 학수를 데리고 홀연히 사라진다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_18",
+            "prev_id": "01_0437_17",
+            "next_id": "01_0437_19",
+            "characters": [
+                "C004",
+                "C001",
+                "C005",
+                "E005",
+                "C002",
+                "C003"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "종성에게 끌려온 C001는 C005가 취조를 시작한다.",
+            "unit_motif": "추궁",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "배신감",
+                    "content": "C004은 학수의 손발을 취조 의자에 묶는다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "이제는 더 이상 퇴로가 없어. 그건 알고 있잖아."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "배신감",
+                    "content": "이유가 뭡니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "비장하다",
+                    "content": "죽고 싶지 않아서 그래. 나는 나라3에 가도 살아남을 수 없어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "학수는 C005 일가의 비밀계좌 은행이 밝혀졌다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "혼란스럽다",
+                    "content": "종성이 C001의 가방에서 빼낸 비밀계좌 자료들을 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C005"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "명수는 학수를 취조하기 위해 약물을 투여한다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 보위부 비밀가옥",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "단호하다",
+                    "content": "망명을 신청한 의도가 뭐야!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 뒷골목",
+                    "character": [
+                        "E005"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "E005는 E007의 흔적을 불태워 없앤다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 뒷골목",
+                    "character": [
+                        "E005"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "심란하다",
+                    "content": "E005는 C002에게 서울로 빠져나가라고 요구한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 뒷골목",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "세황은 민호의 말을 뒤로 한 채 E011를 만나러 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "심란하다",
+                    "content": "정희는 난장판이 된 집안을 둘러보며 넋을 놓고 서 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "심란하다",
+                    "content": "종성은 정희에게 무슨 짓을 벌인 것인지 추궁한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "억울하다",
+                    "content": "정희는 뱃속의 아이가 있다고 종성에게 알린다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_19",
+            "prev_id": "01_0437_18",
+            "next_id": "01_0437_20",
+            "characters": [
+                "C002",
+                "C003",
+                "C004",
+                "C005",
+                "보위부 요원들"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "종성과 정희는 서로를 의심하고, 명수는 원하던 바를 얻는다.",
+            "unit_motif": "상황 파악",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 밤거리",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002이 차를 몰고 전속력으로 도로를 질주한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "억울하다",
+                    "content": "정희는 종성의 의심에 억울함을 토로한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "혼란스럽다",
+                    "content": "정희에게 왜 미리 얘기하지 않았냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "억울하다",
+                    "content": "정희는 첫아이처럼 둘째 아이도 보내고 싶지 않아 사실을 숨겼다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "정희는 C001의 망명 시도를 듣고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "종성은 걸려온 전화를 받는다."
+                },
+                {
+                    "type": "script",
+                    "location": "보위부 비밀가옥",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "순순히 털어놓았습니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "심란하다",
+                    "content": "정희는 종성의 전화를 엿듣는다."
+                },
+                {
+                    "type": "script",
+                    "location": "를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "심란하다",
+                    "content": "C001는 잘 처리했어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "보위부 비밀가옥",
+                    "character": [
+                        "보위부 요원들"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "보위부 요원들이 C001의 시신을 보디 백에 넣고 얼음 채운다."
+                },
+                {
+                    "type": "script",
+                    "location": "보위부 비밀가옥",
+                    "character": [
+                        "C005"
+                    ],
+                    "emotion": "만족하다",
+                    "content": "네. 나라3으로 돌려보낼 겁니다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_20",
+            "prev_id": "01_0437_19",
+            "next_id": "01_0437_21",
+            "characters": [
+                "C002",
+                "C004",
+                "C005",
+                "C003"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "종성은 명수의 함정임을 알게 되고 정희를 지키려 한다.",
+            "unit_motif": "실패",
+            "causality": "Crisis of the heart(지극한 슬픔)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 한적한 공터",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "세황은 호텔 보안요원과 함께 E003에게 접근한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 한적한 공터",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "세황은 E003을 전기 총으로 쓰러뜨린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "종성은 명수에게 정희의 혐의를 입증하지 못했다고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "보위부 비밀가옥",
+                    "character": [
+                        "C005"
+                    ],
+                    "emotion": "뻔뻔하다",
+                    "content": "응시하신 테스트에 문제없이 붙으셨습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "혼란스럽다",
+                    "content": "정희는 통화 내용을 엿듣고 혼란스러워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 정희에게 어디까지 들었는지 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "세황의 차 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "세황은 E003의 지문과 안구 사진을 찍어 어디론가로 보낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "혼란스럽다",
+                    "content": "종성은 집 전체가 감시되고 있음을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "경멸하다",
+                    "content": "정희는 종성이 욕실로 들어오자 저항하려 나가려고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "종성은 정희에게 이 모든 것이 함정임을 밝힌다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_21",
+            "prev_id": "01_0437_20",
+            "next_id": "01_0437_22",
+            "characters": [
+                "C002",
+                "E003",
+                "C004",
+                "C003",
+                "C005",
+                "보위부 요원"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "종성은 함정에 빠졌음을 알게 된다.",
+            "unit_motif": "후회",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "세황의 차 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "단호하다",
+                    "content": "세황은 E003의 신상을 빌미로 협박한다."
+                },
+                {
+                    "type": "script",
+                    "location": "세황의 차 안",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "난감하다",
+                    "content": "나라3 애들이 따라붙었어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 정희에게 쪽지로 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "혼란스럽다",
+                    "content": "정희가 혼란스럽게 종성을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "종성은 정희에게 도망쳐야 한다고 쪽지로 전한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "혼란스럽다",
+                    "content": "정희는 종성을 싸늘하게 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "보위부 비밀가옥",
+                    "character": [
+                        "C005"
+                    ],
+                    "emotion": "의심스럽다",
+                    "content": "명수는 불법 청취장치를 통해 종성의 집 소리를 엿듣는다."
+                },
+                {
+                    "type": "script",
+                    "location": "보위부 비밀가옥",
+                    "character": [
+                        "C005"
+                    ],
+                    "emotion": "의심스럽다",
+                    "content": "노래를 갑자기 크게 틀었어. 조심히 접근해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "종성을 창밖을 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "보위부 요원"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "보위부 요원이 무전하며 서 있다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_22",
+            "prev_id": "01_0437_21",
+            "next_id": "01_0437_23",
+            "characters": [
+                "E003",
+                "C002",
+                "보위부 요원들",
+                "C004",
+                "C005",
+                "보위부 요원"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "종성은 집 앞으로 온 보위부 요원들을 처리한다.",
+            "unit_motif": "폭행",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "세황의 차 안",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "난감하다",
+                    "content": "E003은 하는 수 없이 세황에게 거래를 누설한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "세황의 차 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "세황은 E003에게 나라3과의 통화기록을 요구한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "세황의 차 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "세황은 E003에게 대화 내용이 녹음되었다고 협박한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "보위부 요원들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "뻔뻔하다",
+                    "content": "보위부 요원들이 인사를 하며 안으로 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "보위부 요원들"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "뻔뻔하다",
+                    "content": "보위부 요원들이 USB를 숨긴 속옷을 찾는다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "괘씸하다",
+                    "content": "찾는 게 이거야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "종성은 보위부 요원들을 총으로 쏜다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "보위부 비밀가옥",
+                    "character": [
+                        "C005"
+                    ],
+                    "emotion": "짜증나다",
+                    "content": "C005가 긴급 호출 신호를 받는다."
+                },
+                {
+                    "type": "script",
+                    "location": "보위부 비밀가옥",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "짜증나다",
+                    "content": "차분하게 접근해야 한다고 했는데."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집 앞",
+                    "character": [
+                        "보위부 요원"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "요원이 기관총을 빼들고 건물 안으로 뛰어 들어간다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_23",
+            "prev_id": "01_0437_22",
+            "next_id": "01_0437_24",
+            "characters": [
+                "C004",
+                "E008",
+                "보위부 백업 요원",
+                "C005"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "종성은 집을 떠나려고 했지만 보위부 요원에게 공격당한다.",
+            "unit_motif": "폭행",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "준다",
+                    "emotion": "죄책감",
+                    "content": "종성은 정희에게 외투를 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "종성은 집에서 현찰과 무기를 챙긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 나라1 식당 주방",
+                    "character": [
+                        "E008"
+                    ],
+                    "act": "가르치다/훈련시키다",
+                    "emotion": "자랑스럽다",
+                    "content": "E008은 나라1 남자들 다섯 명에게 폭탄 제조법을 가르치고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 나라1 식당 주방",
+                    "character": [
+                        "E008"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "무감각함",
+                    "content": "E008은 전화를 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "종성이 정희를 데리고 집을 나선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "보위부 백업 요원"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "요원이 기관총을 들고 엘리베이터에서 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "보위부 백업 요원"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "보위부 백업 요원이 소음 기관총을 갈겨대며 다가온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 총탄을 피해 정희를 데리고 집안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "보위부 비밀가옥",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "무감각함",
+                    "content": "명수는 전화 통화를 하며 총을 조립한다."
+                },
+                {
+                    "type": "script",
+                    "location": "보위부 비밀가옥",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "무감각함",
+                    "content": "너네 형님은 어떻게 되셨어?"
+                }
+            ]
+        },
+        {
+            "id": "01_0437_24",
+            "prev_id": "01_0437_23",
+            "next_id": "01_0437_25",
+            "characters": [
+                "E008",
+                "C005",
+                "C004",
+                "C003",
+                "보위부 백업 요원"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "종성은 보위부 요원으로부터 정희를 지킨다.",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "베를린 나라1 식당 주방",
+                    "character": [
+                        "E008"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "화나다",
+                    "content": "나라1에서 절차 무시하고 죽였어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "보위부 비밀가옥",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "명수는 E008에게 형의 배신자를 찾았다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집, 옥외 비상계단",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "긴장되다",
+                    "content": "종성이 창문을 열고 정희를 옥외 비상 철제 계단으로 내보낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집, 옥외 비상계단",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "열다",
+                    "emotion": "긴장되다",
+                    "content": "정희가 아래로 이어지는 계단을 발로 차 연다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "보위부 백업 요원"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "요원이 종성을 향해 기관총을 난사하며 종성을 쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "종성은 요원과 몸싸움을 벌인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "종성은 요원과 함께 계단 아래로 떨어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집, 옥외 비상계단",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "정희는 철제 계단이 부서지며 난간에서 떨어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "종성은 정희를 낚아채며 바닥을 구른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "걱정",
+                    "content": "종성은 정희가 다친 곳이 없는지 살핀다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_25",
+            "prev_id": "01_0437_24",
+            "next_id": "01_0437_26",
+            "characters": [
+                "E003",
+                "C002",
+                "E005",
+                "C004",
+                "C003",
+                "종업원"
+            ],
+            "stage": "Another Story",
+            "storyline": "세황은 정보를 얻고 민호에게 연락을 받고 확신한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "E003의 집 작업실",
+                    "character": [
+                        "E003"
+                    ],
+                    "emotion": "씁쓸하다",
+                    "content": "E003이 컴퓨터에서 음성파일을 MP3에 옮기고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "E003의 집 작업실",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "만족하다",
+                    "content": "지켜보던 세황의 전화벨이 울린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 상황실",
+                    "character": [
+                        "E005"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "의심스럽다",
+                    "content": "민호가 세황에게 총격전에 대해 얘기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "E003의 집 작업실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "자신감 있다",
+                    "content": "세황은 민호에게 주소와 불법 청취 데이터를 확보해달라고 명령한다."
+                },
+                {
+                    "type": "script",
+                    "location": "국정원 베를린 위장 사무실 내 상황실",
+                    "character": [
+                        "E005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "상부에 보고도 하지 않고 엿듣고 있다는 말이야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "E003의 집 작업실",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "만족하다",
+                    "content": "세황은 E003에게 MP3를 받은 뒤 전화기에 녹음된 내용을 삭제한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "E003의 집 작업실",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "약오르다",
+                    "content": "E003은 세황에게 경고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 로비",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 종업원에게 방이 있는지 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 로비",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "긴장되다",
+                    "content": "정희가 테이블 위에 있던 칼을 슬쩍 숨긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 로비",
+                    "character": [
+                        "종업원"
+                    ],
+                    "act": "준다",
+                    "emotion": "피곤하다",
+                    "content": "종업원이 잠에서 깨며 열쇠를 찾아 건넨다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 중급 호텔 로비",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "긴장되다",
+                    "content": "안쪽을 확인하게 해주시오."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_26",
+            "prev_id": "01_0437_25",
+            "next_id": "01_0437_27",
+            "characters": [
+                "C004",
+                "종업원",
+                "C002",
+                "현장 책임경찰",
+                "기자들",
+                "E005"
+            ],
+            "stage": "Another Story",
+            "storyline": "세황은 종성의 집 앞에서 현장을 확인한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "종성과 정희는 종업원의 안내로 방을 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 복도",
+                    "character": [
+                        "종업원"
+                    ],
+                    "act": "준다",
+                    "emotion": "긴장되다",
+                    "content": "종업원이 종성에게 열쇠를 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "준다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 종업원에게 유로화를 건넨다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 중급 호텔 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "씁쓸하다",
+                    "content": "얻기 어려운 것에 돈이 많이 드는 법이요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "궁금하다",
+                    "content": "세황은 앰뷸런스로 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집 앞",
+                    "character": [
+                        "현장 책임경찰"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "짜증나다",
+                    "content": "경찰은 세황을 오지 못하게 제지한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집 앞",
+                    "character": [
+                        "기자들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "궁금하다",
+                    "content": "기자들이 현장 안으로 들어오려고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집 앞",
+                    "content": "현장 책임경찰이 소리를 지르며 기자들을 향해 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 상황실",
+                    "character": [
+                        "E005"
+                    ],
+                    "act": "듣다",
+                    "emotion": "불만족스럽다",
+                    "content": "민호는 스피커폰으로 세황의 대화를 듣는다."
+                },
+                {
+                    "type": "script",
+                    "location": "국정원 베를린 위장 사무실 내 상황실",
+                    "character": [
+                        "E005"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "불만족스럽다",
+                    "content": "지금 엿듣고 있는 거 맞죠!"
+                }
+            ]
+        },
+        {
+            "id": "01_0437_27",
+            "prev_id": "01_0437_26",
+            "next_id": "01_0437_28",
+            "characters": [
+                "C002",
+                "호위 요원",
+                "C004",
+                "C003",
+                "C005"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "세황과 명수는 종성의 집 앞의 현장을 확인한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "열다",
+                    "emotion": "역겹다",
+                    "content": "세황이 보디 백을 열어 죽은 시체를 확인한다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 C004의 집 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "역겹다",
+                    "content": "구강 상태를 보니 나라3 사람이 확실해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집 앞",
+                    "character": [
+                        "호위 요원"
+                    ],
+                    "emotion": "무감각함",
+                    "content": "C005의 호위 요원이 현장 상황을 카메라로 찍는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 C004의 집 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "세황이 구급차에서 나와 현장을 빠져나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "종성은 방문을 잠그고 창문 커튼을 치고 현관 문틈을 막는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "종성은 정희에게 괜찮냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 로비",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "의심스럽다",
+                    "content": "정희는 종성이 다가오자 뒤로 물러난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "준다",
+                    "emotion": "걱정",
+                    "content": "종성은 정희에게 생수병을 따 건넨다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 중급 호텔 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "걱정",
+                    "content": "좀 쉬어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 보위부 비밀가옥 외부",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "명수는 E008에게 종성을 잡으라고 회유한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_28",
+            "prev_id": "01_0437_27",
+            "next_id": "01_0437_29",
+            "characters": [
+                "나라1 남자들",
+                "모니터 분석관",
+                "E005",
+                "C004",
+                "C003"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "민호는 종성의 위치를 세황에게 연결한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 나라1 식당 주방",
+                    "character": [
+                        "나라1 남자들"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "비장하다",
+                    "content": "나라1 남자들이 식당에서 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 나라1 식당 주방",
+                    "character": [
+                        "나라1 남자들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "나라1 남자들이 각자 무기를 챙겨 밖으로 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 상황실",
+                    "character": [
+                        "모니터 분석관"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "놀라다",
+                    "content": "요원이 E005에게 긴급하게 보고한다."
+                },
+                {
+                    "type": "script",
+                    "location": "국정원 베를린 위장 사무실 내 상황실",
+                    "character": [
+                        "E005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "긴장되다",
+                    "content": "어디 있나?"
+                },
+                {
+                    "type": "script",
+                    "location": "국정원 베를린 위장 사무실 내 상황실",
+                    "character": [
+                        "모니터 분석관"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "긴장되다",
+                    "content": "일이 생긴 곳에서 그리 멀지 않은 곳에 있습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 상황실",
+                    "character": [
+                        "E005"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "비장하다",
+                    "content": "민호가 세황에게 연결하라고 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "종성은 화장실에서 상처를 치료한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "종성은 노트북에 집에서 발견한 USB를 연결한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 로비",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "정희가 종성 너머로 보이는 모니터 화면을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "content": "종성은 C001의 가방에서 꺼낸 서류들을 본다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_29",
+            "prev_id": "01_0437_28",
+            "next_id": "01_0437_30",
+            "characters": [
+                "C005",
+                "E008",
+                "나라1 남자들",
+                "C004",
+                "프런트 데스크 직원"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C005는 종성을 공격하도록 E008을 속인다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 외곽 도로 향하는 길",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C005 일행을 태운 차가 도심 도로를 달린다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 외곽 도로 향하는 길",
+                    "character": [
+                        "E008"
+                    ],
+                    "emotion": "괘씸하다",
+                    "content": "변절자는 우리가 처리할게."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 외곽 도로 향하는 길",
+                    "character": [
+                        "C005"
+                    ],
+                    "emotion": "뻔뻔하다",
+                    "content": "안돼. 나도 할 일이 있어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 로비",
+                    "character": [
+                        "나라1 남자들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "나라1 남자들이 호텔로 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 로비",
+                    "character": [
+                        "나라1 남자들"
+                    ],
+                    "act": "방해하다",
+                    "emotion": "담담하다",
+                    "content": "나라1 남자들이 종업원을 깨운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "비장하다",
+                    "content": "종성은 컴퓨터 사용 기록을 지운다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 중급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "괘씸하다",
+                    "content": "C005가 가족들과 나라3에서 탈출할 수 있는 방안은 이것뿐이야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 로비",
+                    "character": [
+                        "나라1 남자들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "나라1 남자들이 엘리베이터로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급 호텔 로비",
+                    "character": [
+                        "프런트 데스크 직원"
+                    ],
+                    "act": "죽다",
+                    "emotion": "비참하다",
+                    "content": "직원이 죽어 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 중급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "베를린을 맡게 된다면 다른 사람 없이 바로 나랑 거래 가능해."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_30",
+            "prev_id": "01_0437_29",
+            "next_id": "01_0437_31",
+            "characters": [
+                "C005",
+                "C004",
+                "C003",
+                "나라1 남자들",
+                "C002"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "종성은 총격전 와중에 정희를 지키려 한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 외곽 도로",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "홀가분하다",
+                    "content": "C005의 차량이 외곽 고속도로 톨게이트를 빠져나가고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "속상하다",
+                    "content": "종성이 정희를 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "해치다",
+                    "emotion": "의심스럽다",
+                    "content": "정희는 칼을 꽉 쥔 채 종성을 겨누고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 중급호텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "의심스럽다",
+                    "content": "숨기려는 것이 무엇입니까? 진실이 뭐냐고요!"
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 중급호텔 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "비장하다",
+                    "content": "C005가 우리를 노리고 있다는 게 중요해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 복도",
+                    "character": [
+                        "나라1 남자들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "나라1 남자 네 명이 종성이 있는 호텔 방으로 들어오려고 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 중급호텔 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "끝까지 버텨야 해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "긴장되다",
+                    "content": "종성과 나라1 남자들은 총격전을 벌인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "지키다/보호하다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 총격전에서 총알이 떨어진 와중에 정희를 지키려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "긴장되다",
+                    "content": "C002은 나라1 남자들을 공격한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_31",
+            "prev_id": "01_0437_30",
+            "next_id": "01_0437_32",
+            "characters": [
+                "C004",
+                "나라1 남자1",
+                "C002",
+                "E008",
+                "C005"
+            ],
+            "stage": "Villains Move",
+            "storyline": "종성은 정희를 나라1에게 놓치고 만다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 복도, 계단",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 복도로 나와 나라1 남자 3에게 총을 쏜다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 복도, 계단",
+                    "character": [
+                        "나라1 남자1"
+                    ],
+                    "act": "데려가다",
+                    "emotion": "비장하다",
+                    "content": "나라1 남자1이 정희를 데려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 복도, 계단",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "걱정",
+                    "content": "종성은 정희의 뒤를 쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 복도, 계단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "불만족스럽다",
+                    "content": "세황도 욕지거리를 내뱉으며 종성의 뒤를 쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 로비, 호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "걱정",
+                    "content": "종성은 정희의 뒤를 쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 로비, 호텔 앞",
+                    "character": [
+                        "나라1 남자1"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "나라1 남자1가 정희를 태운 차가 출발한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 로비, 호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "화나다",
+                    "content": "종성이 차를 쫓아 달린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 로비, 호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "화나다",
+                    "content": "종성이 차를 향해 총을 쏴대지만 맞추지 못한다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 중급호텔 로비, 호텔 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "불만족스럽다",
+                    "content": "다른 곳으로 가자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 외곽 도로",
+                    "character": [
+                        "E008"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "난감하다",
+                    "content": "E008은 부하에게 작전에 실패했다는 연락을 받는다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 외곽 도로",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "망했다는 말은 넣어둬!"
+                }
+            ]
+        },
+        {
+            "id": "01_0437_32",
+            "prev_id": "01_0437_31",
+            "next_id": "01_0437_33",
+            "characters": [
+                "C002",
+                "C004",
+                "C005",
+                "나라1 남자1"
+            ],
+            "stage": "Villains Move",
+            "storyline": "정희는 명수에게 넘어가고, 종성은 E001 일가의 행적을 명확히 알게 된다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 근처 골목",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "세황은 종성을 앞세운 채 차량을 향해 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 근처 골목",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "종성이 순식간에 세황을 덮친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 근처 골목",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 세황의 총을 빼앗아 겨눈다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 중급호텔 근처 골목",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "긴장되다",
+                    "content": "이거 가지고 가."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 근처 골목",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "긴장되다",
+                    "content": "세황이 차 열쇠를 종성 뒤편으로 휙 내던진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 근처 골목",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "듣다",
+                    "emotion": "긴장되다",
+                    "content": "세황이 녹음된 E003의 목소리를 들려준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 근처 골목",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "궁금하다",
+                    "content": "종성이 열쇠를 들고 일어서며 굳은 표정으로 세황을 돌아본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 중급호텔 근처 골목",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "괘씸하다",
+                    "content": "세황이 E003에게서 받은 녹음기를 종성에게 보여주며 녹음기를 끈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C005가 탄 차량이 농가로 인적 없는 농가로 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "나라1 남자1"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "정희를 태우고 온 나라1 남자 1의 차가 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "기대되다",
+                    "content": "명수가 정희를 맞이한다."
+                },
+                {
+                    "type": "script",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "만나다",
+                    "emotion": "반갑다",
+                    "content": "오랜만이에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "듣다",
+                    "emotion": "단호하다",
+                    "content": "세황이 녹음기를 끄고 내려놓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "괘씸하다",
+                    "content": "종성은 그간 E001 일가의 짓을 알게 된다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_33",
+            "prev_id": "01_0437_32",
+            "next_id": "01_0437_34",
+            "characters": [
+                "C005",
+                "C004",
+                "C002",
+                "C003"
+            ],
+            "stage": "Villains Move",
+            "storyline": "세황은 종성에게 손을 잡자고 얘기한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "유쾌하다",
+                    "content": "명수는 C003를 구석에 앉혀놓고 그녀에게 다가간다."
+                },
+                {
+                    "type": "script",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "안타깝다",
+                    "content": "너를 배신한 사람에게 아직 기대를 갖고 있나?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "사무치다",
+                    "content": "종성은 죽은 첫째 아이의 사진을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "세황은 종성에게 C001가 죽었는지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "씁쓸하다",
+                    "content": "그렇다고 들었어."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "이제 그만 포기해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "비장하다",
+                    "content": "종성은 세황에게 거래하자고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "단호하다",
+                    "content": "종성은 정희에게 갈 계획을 세황에게 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "명수는 정희에게 종성의 이중간첩을 했다고 말하라고 시킨다."
+                },
+                {
+                    "type": "script",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "경멸하다",
+                    "content": "네가 원하는 대로 되지 않을 거야."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_34",
+            "prev_id": "01_0437_33",
+            "next_id": "01_0437_35",
+            "characters": [
+                "C004",
+                "C002",
+                "C005"
+            ],
+            "stage": "Defeat",
+            "storyline": "종성은 세황에게 거래를 약속하고 정희를 구하러 간다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "종성은 명수의 계획을 세황에게 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "의심스럽다",
+                    "content": "정말 확실해?"
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "비장하다",
+                    "content": "내가 가장 잘 하던 것이니 의심하지 않아도 돼."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "의심스럽다",
+                    "content": "세황은 자신이 얻는 것이 무엇인지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "비장하다",
+                    "content": "숨겨진 비밀 거래 자료를 주면 되는 거야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "불만족스럽다",
+                    "content": "명수가 전화를 받으러 온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "종성이 명수에게 자신임을 알린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "명수는 종성이 남조선과 붙었냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 강가 한적한 곳",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "화나다",
+                    "content": "종성은 정희를 데려갔는지 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "담담하다",
+                    "content": "명수는 요원에게 정희를 데려오라고 손짓한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_35",
+            "prev_id": "01_0437_34",
+            "next_id": "01_0437_36",
+            "characters": [
+                "E009",
+                "나라3 요원들",
+                "C004",
+                "C002",
+                "C005",
+                "E008",
+                "E010",
+                "C003"
+            ],
+            "stage": "Defeat",
+            "storyline": "종성과 세황은 숨어서 정희를 구하러 갈 때를 엿본다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "E009"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "E008의 부하 세 명이 무기를 들고 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "나라3 요원들"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "나라3 요원들이 C001의 시심을 꺼내 우유 탱크 속에 넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "C004이 망원경으로 주택 쪽을 살피고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "세황이 함께 농가 주택 주변을 살핀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "C004이 시계를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C005"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C005가 E008과 나라1 남자 1, E010와 함께 카드를 치고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "E008"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "귀찮다",
+                    "content": "E008은 명수에게 종성이 언제 오는지 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "명수는 종성이 네 시가 넘어야 온다고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "E010"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "피곤하다",
+                    "content": "E010가 꾸벅꾸벅 졸고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "emotion": "증오하다",
+                    "content": "정희는 플라스틱 수갑을 풀려고 한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_36",
+            "prev_id": "01_0437_35",
+            "next_id": "01_0437_37",
+            "characters": [
+                "C004",
+                "C002",
+                "E009",
+                "나라3 요원들",
+                "C003",
+                "C005",
+                "E008"
+            ],
+            "stage": "Defeat",
+            "storyline": "종성은 정희를 구하고, 명수는 죽는다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판 언덕",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "C004이 망원경으로 계속 주택을 살핀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판 언덕",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "피곤하다",
+                    "content": "세황은 졸음을 쫓기 위해 껌을 씹는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "E009"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "피곤하다",
+                    "content": "E008의 부하들은 하품하며 쏟아지는 졸음이 쏟아진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "나라3 요원들"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "긴장되다",
+                    "content": "나라3 요원들은 쌩쌩하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "불편하다",
+                    "content": "플라스틱 수갑을 벗어내려던 정희가 지치기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판 언덕",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "종성이 시계를 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판 언덕",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "세황이 준비해온 라이플과 조명탄 등의 장비를 꺼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C004이 차를 몰고 농가주택을 향해 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "긴장되다",
+                    "content": "세황은 주택 내부 상황을 종성에게 전한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "듣다",
+                    "emotion": "긴장되다",
+                    "content": "명수는 종성이 건넨 USB 내용을 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "E008"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "배신감",
+                    "content": "E008은 명수가 배신자임을 알고 총격전이 시작된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국경지대 외곽 들판, 농가주택",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "데려가다",
+                    "emotion": "긴장되다",
+                    "content": "종성은 정희를 데리고 들판으로 뛰어간다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_37",
+            "prev_id": "01_0437_36",
+            "next_id": "01_0437_38",
+            "characters": [
+                "외교부 조사관",
+                "C004",
+                "C002",
+                "E005"
+            ],
+            "stage": "Resurrection",
+            "storyline": "종성과 정희는 죽은 척 위장하고, 세황의 보고는 수포로 돌아갈 처지에 놓인다.",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "외교부 조사관"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "정말 다 죽었어요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 농가주택 외곽 들판",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "준다",
+                    "emotion": "비장하다",
+                    "content": "종성이 세황에게 USB를 꺼내 던진다."
+                },
+                {
+                    "type": "script",
+                    "location": "베를린 농가주택 외곽 들판",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "아무도 살아남지 못한 걸로 합시다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "담담하다",
+                    "content": "세황은 통역관 여자와 남편이 현장에서 죽었다고 거짓 보고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "E005"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "민호는 조사 결과를 세황에게 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 공항",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "홀가분하다",
+                    "content": "세황이 짐 가방을 들고 절룩거리며 공항 대기실로 걸어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "외교부 조사관"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "조사관은 입수한 나라3 비밀계좌가 신빙성 높다고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "E005"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "방법이 좋았네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "세황은 조사관에게 이후 작전을 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "외교부 조사관"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "무안하다",
+                    "content": "조사관은 세황이 가져온 계좌로 작전을 진행하지 않는다고 답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "황당하다",
+                    "content": "세황이 외교부 조사관과 민호를 번갈아 본다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_38",
+            "prev_id": "01_0437_37",
+            "next_id": "01_0437_39",
+            "characters": [
+                "C004",
+                "C003",
+                "외교부 조사관",
+                "C002"
+            ],
+            "stage": "Resurrection",
+            "storyline": "세황의 수사는 수포로 돌아가고, 종성과 정희는 다른 국가로 떠난다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "독일 국경 지대",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "홀가분하다",
+                    "content": "종성은 차를 타고 달린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "독일 국경 지대",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "홀가분하다",
+                    "content": "정희는 종성의 옆에 앉아 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "외교부 조사관"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "조사관은 평양과의 가스관 사업을 세황에게 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "외교부 조사관"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "이것은 어디에서도 쓸 수가 없습니다. 오히려 문제가 발생할 겁니다."
+                },
+                {
+                    "type": "script",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "황당하다",
+                    "content": "다른 사람들도 처리가 어렵습니까? 모두 수포로 돌아간 거냐고요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "독일 국경 지대",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "홀가분하다",
+                    "content": "종성의 차는 먼지를 일으키며 달린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "독일 국경 지대",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "홀가분하다",
+                    "content": "종성의 차는 다른 국가를 향해 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "외교부 조사관"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "조사관은 가스관 진행이 E001를 비롯한 계좌 주인들이라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "외교부 조사관"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "조사관은 '베를린 파일'을 덮는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "국정원 베를린 위장 사무실 내 조사실",
+                    "character": [
+                        "외교부 조사관"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "조사관은 그쪽 일은 그쪽에서 알아서 한다고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "01_0437_39",
+            "prev_id": "01_0437_38",
+            "characters": [
+                "C002",
+                "C004",
+                "C003"
+            ],
+            "stage": "Resurrection",
+            "storyline": "세황은 성과 없이 비행기에 오르고, 종성과 정희는 안도하며 다른 나라로 계속 간다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베를린 공항",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "허무하다",
+                    "content": "세황은 대기실에 우두커니 창밖을 보고 앉아 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 공항",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "씁쓸하다",
+                    "content": "세황은 남한과 나라3, 러시아가 평양 경유 러시아 가스관 공사 뉴스를 보고 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베를린 공항",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "씁쓸하다",
+                    "content": "세황이 자리에서 일어나 탑승구 쪽으로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "독일 국경 지대",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "종성의 차가 달리고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "독일 국경 지대",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "피곤하다",
+                    "content": "정희가 잠들어 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "독일 국경 지대",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "애틋하다",
+                    "content": "종성이 잠든 정희의 손을 잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "독일 국경 지대",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "행복하다",
+                    "content": "잠든 줄 알았던 정희가 종성의 손에 자신의 손을 포갠다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "독일 국경 지대",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "종성의 차가 독일 국경을 넘어 다른 나라로 진입한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "독일 국경 지대",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "안심/안도하다",
+                    "content": "정희의 잠든 얼굴에 처음으로 평화가 깃든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "독일 국경 지대",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "종성은 정희를 보며 무표정하게 운전한다."
+                }
+            ]
+        }
+    ]
+}
