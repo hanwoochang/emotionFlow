@@ -21,5 +21,6 @@ Moive Emotion Analysis
   3. 영화 분석
      python inference.py
 
+<img width="1913" height="666" alt="스크린샷 2025-11-28 141302" src="https://github.com/user-attachments/assets/aa4f5650-8a46-4ed4-8d49-917b5cf0ce95" />
 
 <img width="1898" height="666" alt="스크린샷 2025-11-28 175245" src="https://github.com/user-attachments/assets/5df6e776-54ac-4e46-a130-322356f59de1" />
