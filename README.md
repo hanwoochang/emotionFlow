@@ -1,4 +1,4 @@
-Moive Emotion Analysis
+<h1>Moive Emotion Analysis</h1>
 
  이 프로젝트는 영화 대본을 분석하여 등장인물의 감정 흐름과 기승전결의 분위기를 시각화하는 프로젝트입니다.
 
@@ -15,18 +15,20 @@ Moive Emotion Analysis
 
 <br><br>
 
-<h3>사용 방벙</h3>
+<h3>사용 방법</h3>
   1. 환경설정<br>
-     pip install torch transformers pandas matplotlib tqdm scikit-learn<br>
+  &ensp;&ensp;&ensp;pip install torch transformers pandas matplotlib tqdm scikit-learn<br>
   2. 모델학습<br>
-     python train.py<br>
+  &ensp;&ensp;&ensp;python train.py<br>
   3. 영화 분석<br>
-     python inference.py<br>
+  &ensp;&ensp;&ensp;python inference.py<br>
      
 <br><br>
 
+모델 학습
 <img width="1913" height="666" alt="스크린샷 2025-11-28 141302" src="https://github.com/user-attachments/assets/aa4f5650-8a46-4ed4-8d49-917b5cf0ce95" />
 
 <br><br>
 
+감정 흐름 분석
 <img width="1898" height="666" alt="스크린샷 2025-11-28 175245" src="https://github.com/user-attachments/assets/5df6e776-54ac-4e46-a130-322356f59de1" />
