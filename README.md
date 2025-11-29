@@ -16,13 +16,13 @@ Moive Emotion Analysis
 <br><br>
 
 <h3>사용 방벙</h3>
-  1. 환경설정
-     pip install torch transformers pandas matplotlib tqdm scikit-learn
-  2. 모델학습
-     python train.py
-  3. 영화 분석
-     python inference.py
-
+  1. 환경설정<br>
+     pip install torch transformers pandas matplotlib tqdm scikit-learn<br>
+  2. 모델학습<br>
+     python train.py<br>
+  3. 영화 분석<br>
+     python inference.py<br>
+     
 <br><br>
 
 <img width="1913" height="666" alt="스크린샷 2025-11-28 141302" src="https://github.com/user-attachments/assets/aa4f5650-8a46-4ed4-8d49-917b5cf0ce95" />
