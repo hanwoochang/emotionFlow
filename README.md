@@ -15,7 +15,7 @@ Moive Emotion Analysis
 
 <br><br>
 
-사용 방벙
+<h3>사용 방벙</h3>
   1. 환경설정
      pip install torch transformers pandas matplotlib tqdm scikit-learn
   2. 모델학습
